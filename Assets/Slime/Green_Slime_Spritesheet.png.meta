@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: ed361efecfe7e4e9fbb6ee256f0d6252
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8326861923058343209
+    second: Green_Slime_Spritesheet_0
+  - first:
+      213: 6523137338290651977
+    second: Green_Slime_Spritesheet_1
+  - first:
+      213: -969977838645618490
+    second: Green_Slime_Spritesheet_2
+  - first:
+      213: 7918129319831336481
+    second: Green_Slime_Spritesheet_3
+  - first:
+      213: 6943980674830775121
+    second: Green_Slime_Spritesheet_4
+  - first:
+      213: -1691004623032316097
+    second: Green_Slime_Spritesheet_5
+  - first:
+      213: -4491935983776593366
+    second: Green_Slime_Spritesheet_6
+  - first:
+      213: 5775084694174872548
+    second: Green_Slime_Spritesheet_7
+  - first:
+      213: 6945217408218210547
+    second: Green_Slime_Spritesheet_8
+  - first:
+      213: 7226297546542832218
+    second: Green_Slime_Spritesheet_9
+  - first:
+      213: -9081185436527000421
+    second: Green_Slime_Spritesheet_10
+  - first:
+      213: 855164398879995720
+    second: Green_Slime_Spritesheet_11
+  - first:
+      213: -108138525625312276
+    second: Green_Slime_Spritesheet_12
+  - first:
+      213: 5169814217341106995
+    second: Green_Slime_Spritesheet_13
+  - first:
+      213: -7788544294259556781
+    second: Green_Slime_Spritesheet_14
+  - first:
+      213: 9002169254349727331
+    second: Green_Slime_Spritesheet_15
+  - first:
+      213: 1676904688647691830
+    second: Green_Slime_Spritesheet_16
+  - first:
+      213: -8768546055542140124
+    second: Green_Slime_Spritesheet_17
+  - first:
+      213: -3535550877347284135
+    second: Green_Slime_Spritesheet_18
+  - first:
+      213: 7708290174937546435
+    second: Green_Slime_Spritesheet_19
+  - first:
+      213: -7184781757168347670
+    second: Green_Slime_Spritesheet_20
+  - first:
+      213: -3791411887070653350
+    second: Green_Slime_Spritesheet_21
+  - first:
+      213: 1158296900025187894
+    second: Green_Slime_Spritesheet_22
+  - first:
+      213: 2980980731909236258
+    second: Green_Slime_Spritesheet_23
+  - first:
+      213: -8411658391756697613
+    second: Green_Slime_Spritesheet_24
+  - first:
+      213: -1549682635034325834
+    second: Green_Slime_Spritesheet_25
+  - first:
+      213: -5771369056769897283
+    second: Green_Slime_Spritesheet_26
+  - first:
+      213: 4555312334069521012
+    second: Green_Slime_Spritesheet_27
+  - first:
+      213: 3750187176005166245
+    second: Green_Slime_Spritesheet_28
+  - first:
+      213: -8503121606638731720
+    second: Green_Slime_Spritesheet_29
+  - first:
+      213: -7571048150937485896
+    second: Green_Slime_Spritesheet_30
+  - first:
+      213: -7541465805402480403
+    second: Green_Slime_Spritesheet_31
+  - first:
+      213: -3623382628382970555
+    second: Green_Slime_Spritesheet_32
+  - first:
+      213: 2038395293382518357
+    second: Green_Slime_Spritesheet_33
+  - first:
+      213: 5042284403508229710
+    second: Green_Slime_Spritesheet_34
+  - first:
+      213: -1528088907642204837
+    second: Green_Slime_Spritesheet_35
+  - first:
+      213: 620879631462605647
+    second: Green_Slime_Spritesheet_36
+  - first:
+      213: -3490944071149988791
+    second: Green_Slime_Spritesheet_37
+  - first:
+      213: 308437478686582453
+    second: Green_Slime_Spritesheet_38
+  - first:
+      213: 5901691340513897721
+    second: Green_Slime_Spritesheet_39
+  - first:
+      213: 386571198073598468
+    second: Green_Slime_Spritesheet_40
+  - first:
+      213: 3276650683293529936
+    second: Green_Slime_Spritesheet_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 155
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2a166d23b017c80800000000000000
+      internalID: -8326861923058343209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 712
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943c6ed19d6d68a50800000000000000
+      internalID: 6523137338290651977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 709
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d68f7b42f982f0800000000000000
+      internalID: -969977838645618490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 698
+        width: 88
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126f6221aa8d2ed60800000000000000
+      internalID: 7918129319831336481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 707
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153377a02a9fd5060800000000000000
+      internalID: 6943980674830775121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 703
+        width: 140
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f8d9231485888e0800000000000000
+      internalID: -1691004623032316097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 711
+        width: 156
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a8335a50079a1c0800000000000000
+      internalID: -4491935983776593366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 582
+        width: 156
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3b6108ee8352050800000000000000
+      internalID: 5775084694174872548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 582
+        width: 165
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0a4b87f6e526060800000000000000
+      internalID: 6945217408218210547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 584
+        width: 173
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a56fef457f84460800000000000000
+      internalID: 7226297546542832218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 584
+        width: 174
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b948b5ca5f529f180800000000000000
+      internalID: -9081185436527000421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 582
+        width: 174
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8477dcb6d772edb00800000000000000
+      internalID: 855164398879995720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 567
+        width: 165
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb91997590df7ef0800000000000000
+      internalID: -108138525625312276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 565
+        width: 155
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b716bc3aedeb740800000000000000
+      internalID: 5169814217341106995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 440
+        width: 155
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e7347da3889e390800000000000000
+      internalID: -7788544294259556781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 441
+        width: 165
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3666575cd312eec70800000000000000
+      internalID: 9002169254349727331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 442
+        width: 173
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e58010eef854710800000000000000
+      internalID: 1676904688647691830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 452
+        width: 173
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42312caf1dddf4680800000000000000
+      internalID: -8768546055542140124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 451
+        width: 173
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bf46e85333feec0800000000000000
+      internalID: -3535550877347284135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 446
+        width: 165
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce39c6e21959fa60800000000000000
+      internalID: 7708290174937546435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 433
+        width: 156
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae51647fe078a4c90800000000000000
+      internalID: -7184781757168347670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 155
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54d5f9f9f2326bc0800000000000000
+      internalID: -3791411887070653350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 286
+        width: 174
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eff66c4e8131010800000000000000
+      internalID: 1158296900025187894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 290
+        width: 184
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226ebb78e229e5920800000000000000
+      internalID: 2980980731909236258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 293
+        width: 185
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff88637249c34b80800000000000000
+      internalID: -8411658391756697613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 298
+        width: 183
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc0030aadb6e7ae0800000000000000
+      internalID: -1549682635034325834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 297
+        width: 174
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc8c8fbb6af7efa0800000000000000
+      internalID: -5771369056769897283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 297
+        width: 156
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a5b29ce68b73f30800000000000000
+      internalID: 4555312334069521012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 156
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a463030e575b0430800000000000000
+      internalID: 3750187176005166245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 147
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e795243f7def980800000000000000
+      internalID: -8503121606638731720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 147
+        width: 183
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd3ef1e1db3ee690800000000000000
+      internalID: -7571048150937485896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 149
+        width: 184
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0ea3f6ec4575790800000000000000
+      internalID: -7541465805402480403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 148
+        width: 184
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d69ed62b827bdc0800000000000000
+      internalID: -3623382628382970555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 147
+        width: 174
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556a4ed28b5d94c10800000000000000
+      internalID: 2038395293382518357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 149
+        width: 156
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b99723fac9f540800000000000000
+      internalID: 5042284403508229710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 156
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d85c21c332bcae0800000000000000
+      internalID: -1528088907642204837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 155
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43aa993cbecd9800800000000000000
+      internalID: 620879631462605647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3
+        width: 155
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9445954fcdcad8fc0800000000000000
+      internalID: -3490944071149988791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 3
+        width: 151
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6e780b04ac74400800000000000000
+      internalID: 308437478686582453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2
+        width: 145
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc6455710507e150800000000000000
+      internalID: 5901691340513897721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3
+        width: 144
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402f29dd4706d5500800000000000000
+      internalID: 386571198073598468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Slime_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 3
+        width: 135
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05770ce9f60097d20800000000000000
+      internalID: 3276650683293529936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
