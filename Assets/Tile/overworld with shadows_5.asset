@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: TileGroundTop_green
+  m_Name: overworld with shadows_5
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 84635e2084af34f43b31ddaca549894f, type: 3}
+  m_Sprite: {fileID: 9012572518352349037, guid: cff2ee7e29c5c4cb1bea93759a32232c,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
