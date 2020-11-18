@@ -5,14 +5,17 @@ using UnityEngine;
 public class EnemySpawner : MonoBehaviour
 {
 
-    public GameObject enemySlime;
+    //public GameObject enemySlime;
     public GameObject playerSlime;
+    public GameObject[] enemySlimes = new GameObject[6];
     public int x_range, y_range;
     public int maxEnemyCount = 10;
+    public float wait_time = 0.1f;
 
     private int xPos, yPos;
     private int enemyCount = 0;
     private int x_limit = 10, y_limit = 8;
+    private float next_time = 0;
 
     // Start is called before the first frame update
     void Start() {
@@ -21,8 +24,10 @@ public class EnemySpawner : MonoBehaviour
 
     // Update is called once per frame
     void Update() {
-        if (enemyCount < maxEnemyCount)
+        if (Time.time >= next_time && enemyCount < maxEnemyCount){
             StartCoroutine(EnemyDrop());
+            next_time += wait_time;
+        }
     }
 
     bool IsWithinPlayerRange(int ex, int ey) { //, float px, float py) {
@@ -39,11 +44,11 @@ public class EnemySpawner : MonoBehaviour
                 xPos = Random.Range(-x_range, x_range);
                 yPos = Random.Range(-y_range, y_range);
             } while (IsWithinPlayerRange(xPos, yPos)); //, player_xPos, player_yPos));
-
-            Instantiate(enemySlime, new Vector2(xPos, yPos), Quaternion.identity);
+            int enemy_index = Random.Range(0, enemySlimes.Length);
+            Instantiate(enemySlimes[enemy_index], new Vector2(xPos, yPos), Quaternion.identity).SetActive(true);
             enemyCount += 1;
 
-            yield return new WaitForSeconds(0.1f);
+            yield return new WaitForSeconds(wait_time);
         //}
     }
 }

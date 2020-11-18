@@ -137,7 +137,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &294066540
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -219,7 +219,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &369430556
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -428,7 +428,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &722931804
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -523,11 +523,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bc4fd71a97414c24a1fec25d70ade37, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemySlime: {fileID: 2017464219}
   playerSlime: {fileID: 970304777}
+  enemySlimes:
+  - {fileID: 2017464219}
+  - {fileID: 1162725452}
+  - {fileID: 1102992620}
+  - {fileID: 722931803}
+  - {fileID: 294066539}
+  - {fileID: 369430555}
   x_range: 12
   y_range: 12
-  maxEnemyCount: 10
+  maxEnemyCount: 30
+  wait_time: 1
 --- !u!4 &889036278
 Transform:
   m_ObjectHideFlags: 0
@@ -699,7 +706,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1102992621
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -781,7 +788,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1162725453
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1225,7 +1232,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &2017464220
 SpriteRenderer:
   m_ObjectHideFlags: 0
