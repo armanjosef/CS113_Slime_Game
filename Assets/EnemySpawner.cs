@@ -15,19 +15,20 @@ public class EnemySpawner : MonoBehaviour
     private int xPos, yPos;
     private int enemyCount = 0;
     private int x_limit = 10, y_limit = 8;
-    private float next_time = 0;
+    //private float next_time = 0;
 
     // Start is called before the first frame update
     void Start() {
-        StartCoroutine(EnemyDrop());
+        //StartCoroutine(EnemyDrop());
+        InvokeRepeating("EnemyDrop", 0, wait_time);
     }
 
     // Update is called once per frame
     void Update() {
-        if (Time.time >= next_time && enemyCount < maxEnemyCount){
-            StartCoroutine(EnemyDrop());
-            next_time += wait_time;
-        }
+      //  if (Time.time >= next_time && enemyCount < maxEnemyCount){
+      //      StartCoroutine(EnemyDrop());
+      //      next_time += wait_time;
+      //  }
     }
 
     bool IsWithinPlayerRange(int ex, int ey) { //, float px, float py) {
@@ -38,8 +39,8 @@ public class EnemySpawner : MonoBehaviour
         return Mathf.Abs(ex - px) <= x_limit && Mathf.Abs(ey - py) <= y_limit;
     }
 
-    IEnumerator EnemyDrop() {
-        //while (enemyCount < 10) {
+    void EnemyDrop() {
+        if (enemyCount < maxEnemyCount) {
             do {
                 xPos = Random.Range(-x_range, x_range);
                 yPos = Random.Range(-y_range, y_range);
@@ -48,7 +49,7 @@ public class EnemySpawner : MonoBehaviour
             Instantiate(enemySlimes[enemy_index], new Vector2(xPos, yPos), Quaternion.identity).SetActive(true);
             enemyCount += 1;
 
-            yield return new WaitForSeconds(wait_time);
-        //}
+        //    yield return new WaitForSeconds(wait_time);
+        }
     }
 }
