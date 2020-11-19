@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 294066540}
   - component: {fileID: 294066542}
   - component: {fileID: 294066543}
+  - component: {fileID: 294066544}
   m_Layer: 0
   m_Name: Yellow Slime Spritesheet_14
   m_TagString: Untagged
@@ -245,6 +246,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &294066544
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 294066539}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 3.0843835, y: 2.4083333}
+  m_Direction: 1
 --- !u!1 &369430555
 GameObject:
   m_ObjectHideFlags: 0
@@ -257,6 +274,7 @@ GameObject:
   - component: {fileID: 369430556}
   - component: {fileID: 369430558}
   - component: {fileID: 369430559}
+  - component: {fileID: 369430560}
   m_Layer: 0
   m_Name: Gray_Slime_Spritesheet_14
   m_TagString: Untagged
@@ -369,6 +387,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &369430560
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 369430555}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 3.0843832, y: 2.408333}
+  m_Direction: 1
 --- !u!1 &379863255
 GameObject:
   m_ObjectHideFlags: 0
@@ -508,6 +542,7 @@ GameObject:
   - component: {fileID: 722931804}
   - component: {fileID: 722931806}
   - component: {fileID: 722931807}
+  - component: {fileID: 722931808}
   m_Layer: 0
   m_Name: Red Slime Spritesheet_14
   m_TagString: Untagged
@@ -620,6 +655,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &722931808
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722931803}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 3.0843835, y: 2.4083333}
+  m_Direction: 1
 --- !u!1 &889036276
 GameObject:
   m_ObjectHideFlags: 0
@@ -688,6 +739,7 @@ GameObject:
   - component: {fileID: 970304781}
   - component: {fileID: 970304780}
   - component: {fileID: 970304782}
+  - component: {fileID: 970304783}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -816,6 +868,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &970304783
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 970304777}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.00000023841864, y: -0.00000023841858}
+  m_Size: {x: 1.5023468, y: 1.1623473}
+  m_Direction: 1
 --- !u!1 &1102992620
 GameObject:
   m_ObjectHideFlags: 0
@@ -828,6 +896,7 @@ GameObject:
   - component: {fileID: 1102992621}
   - component: {fileID: 1102992623}
   - component: {fileID: 1102992624}
+  - component: {fileID: 1102992625}
   m_Layer: 0
   m_Name: Pink1 Slime Spritesheet_14
   m_TagString: Untagged
@@ -940,6 +1009,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &1102992625
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1102992620}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 3.0843835, y: 2.4083333}
+  m_Direction: 1
 --- !u!1 &1162725452
 GameObject:
   m_ObjectHideFlags: 0
@@ -952,6 +1037,7 @@ GameObject:
   - component: {fileID: 1162725453}
   - component: {fileID: 1162725455}
   - component: {fileID: 1162725456}
+  - component: {fileID: 1162725457}
   m_Layer: 0
   m_Name: Orange Slime Spritesheet_14
   m_TagString: Untagged
@@ -1064,6 +1150,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &1162725457
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1162725452}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 3.0843835, y: 2.4083333}
+  m_Direction: 1
 --- !u!1 &1818977624
 GameObject:
   m_ObjectHideFlags: 0
@@ -1438,6 +1540,7 @@ GameObject:
   - component: {fileID: 2017464220}
   - component: {fileID: 2017464222}
   - component: {fileID: 2017464223}
+  - component: {fileID: 2017464224}
   m_Layer: 0
   m_Name: Blue1 Slime Spritesheet_14
   m_TagString: Untagged
@@ -1550,3 +1653,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!70 &2017464224
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2017464219}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 3.0843835, y: 2.408333}
+  m_Direction: 1
