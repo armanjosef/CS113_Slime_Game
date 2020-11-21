@@ -9,11 +9,11 @@ public class EnemySpawner : MonoBehaviour
     public GameObject playerSlime;
     public GameObject[] enemySlimes = new GameObject[6];
     public int x_range, y_range;
+    public int enemyCount = 0;
     public int maxEnemyCount = 10;
     public float wait_time = 0.1f;
 
     private int xPos, yPos;
-    private int enemyCount = 0;
     private int x_limit = 10, y_limit = 8;
     //private float next_time = 0;
 
@@ -46,7 +46,7 @@ public class EnemySpawner : MonoBehaviour
                 yPos = Random.Range(-y_range, y_range);
             } while (IsWithinPlayerRange(xPos, yPos)); //, player_xPos, player_yPos));
             int enemy_index = Random.Range(0, enemySlimes.Length);
-            Instantiate(enemySlimes[enemy_index], new Vector2(xPos, yPos), Quaternion.identity).SetActive(true);
+            Instantiate(enemySlimes[enemy_index], new Vector2(xPos, yPos), Quaternion.identity);//.SetActive(true);
             enemyCount += 1;
 
         //    yield return new WaitForSeconds(wait_time);
