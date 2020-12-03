@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CollisionScript : MonoBehaviour
 {
@@ -20,6 +21,8 @@ public class CollisionScript : MonoBehaviour
             spawner.enemyCount -= 1;
             player.transform.localScale += scaleChange;
             //eating.Play();
+        } else {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 }
