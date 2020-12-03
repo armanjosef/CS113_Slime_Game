@@ -8,6 +8,7 @@ public class CollisionScript : MonoBehaviour
     public GameObject player;
     public EnemySpawner spawner;
     public Vector3 scaleChange;
+    public Animation eating;
 
     void OnCollisionEnter2D(Collision2D collision) {
         Vector3 enemy = collision.gameObject.transform.localScale;
@@ -15,6 +16,7 @@ public class CollisionScript : MonoBehaviour
             Destroy(collision.gameObject);
             spawner.enemyCount -= 1;
             player.transform.localScale += scaleChange;
+            eating.Play();
         }
     }
 }
