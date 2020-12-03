@@ -43,7 +43,7 @@ public class EnemySpawner : MonoBehaviour
 
             int enemy_index = Random.Range(0, enemySlimes.Length);
             int enemy_scale = Random.Range(-1, 2);
-            Debug.Log(enemy_scale);
+            //Debug.Log(enemy_scale);
             Vector3 x = playerSlime.transform.localScale;
             
             GameObject new_enemy = Instantiate(enemySlimes[enemy_index], new Vector3(xPos, yPos, -1), Quaternion.identity);
