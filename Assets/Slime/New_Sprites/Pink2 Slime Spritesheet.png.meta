@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: 3cb914005cc6141979b5e31bd79f33bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2080689220632976151
+    second: Pink2 Slime Spritesheet_0
+  - first:
+      213: -7036071791491958848
+    second: Pink2 Slime Spritesheet_1
+  - first:
+      213: -5166512832260072372
+    second: Pink2 Slime Spritesheet_2
+  - first:
+      213: -8134077831434342121
+    second: Pink2 Slime Spritesheet_3
+  - first:
+      213: 9064648868018100186
+    second: Pink2 Slime Spritesheet_4
+  - first:
+      213: 7234081658267064534
+    second: Pink2 Slime Spritesheet_5
+  - first:
+      213: -5258164432117450784
+    second: Pink2 Slime Spritesheet_6
+  - first:
+      213: 2162243965419169021
+    second: Pink2 Slime Spritesheet_7
+  - first:
+      213: 7629749043139347663
+    second: Pink2 Slime Spritesheet_8
+  - first:
+      213: 6488425193142347089
+    second: Pink2 Slime Spritesheet_9
+  - first:
+      213: -5697628621040838855
+    second: Pink2 Slime Spritesheet_10
+  - first:
+      213: 8161733245796011267
+    second: Pink2 Slime Spritesheet_11
+  - first:
+      213: 1889437434769569468
+    second: Pink2 Slime Spritesheet_12
+  - first:
+      213: -5011799454170053630
+    second: Pink2 Slime Spritesheet_13
+  - first:
+      213: 2036092914723080690
+    second: Pink2 Slime Spritesheet_14
+  - first:
+      213: 6858597742548313579
+    second: Pink2 Slime Spritesheet_15
+  - first:
+      213: -4421113379480341602
+    second: Pink2 Slime Spritesheet_16
+  - first:
+      213: -2399181845127528600
+    second: Pink2 Slime Spritesheet_17
+  - first:
+      213: -895234683528913276
+    second: Pink2 Slime Spritesheet_18
+  - first:
+      213: 2661788952889497625
+    second: Pink2 Slime Spritesheet_19
+  - first:
+      213: 7786185210487516932
+    second: Pink2 Slime Spritesheet_20
+  - first:
+      213: 5355311566619944413
+    second: Pink2 Slime Spritesheet_21
+  - first:
+      213: 4262747726252979304
+    second: Pink2 Slime Spritesheet_22
+  - first:
+      213: -2994228120625671652
+    second: Pink2 Slime Spritesheet_23
+  - first:
+      213: 5611086532642674670
+    second: Pink2 Slime Spritesheet_24
+  - first:
+      213: 6778031504503187287
+    second: Pink2 Slime Spritesheet_25
+  - first:
+      213: 3464663628447714796
+    second: Pink2 Slime Spritesheet_26
+  - first:
+      213: -5890584210436402652
+    second: Pink2 Slime Spritesheet_27
+  - first:
+      213: 6108236553875811318
+    second: Pink2 Slime Spritesheet_28
+  - first:
+      213: 5410391440939529911
+    second: Pink2 Slime Spritesheet_29
+  - first:
+      213: -2034751964706496830
+    second: Pink2 Slime Spritesheet_30
+  - first:
+      213: -2734635961054640188
+    second: Pink2 Slime Spritesheet_31
+  - first:
+      213: 1846744801198210332
+    second: Pink2 Slime Spritesheet_32
+  - first:
+      213: -112916832238434627
+    second: Pink2 Slime Spritesheet_33
+  - first:
+      213: -6139908329924851861
+    second: Pink2 Slime Spritesheet_34
+  - first:
+      213: -1489231823973037871
+    second: Pink2 Slime Spritesheet_35
+  - first:
+      213: -6730543766068712052
+    second: Pink2 Slime Spritesheet_36
+  - first:
+      213: -4780274785755915237
+    second: Pink2 Slime Spritesheet_37
+  - first:
+      213: 4338263234772024751
+    second: Pink2 Slime Spritesheet_38
+  - first:
+      213: 8176585549944610598
+    second: Pink2 Slime Spritesheet_39
+  - first:
+      213: -752216533537158883
+    second: Pink2 Slime Spritesheet_40
+  - first:
+      213: 1568062665503402327
+    second: Pink2 Slime Spritesheet_41
+  - first:
+      213: -5055062352803089245
+    second: Pink2 Slime Spritesheet_42
+  - first:
+      213: 5194907486806173237
+    second: Pink2 Slime Spritesheet_43
+  - first:
+      213: -4195284549762484579
+    second: Pink2 Slime Spritesheet_44
+  - first:
+      213: -4699076730199683286
+    second: Pink2 Slime Spritesheet_45
+  - first:
+      213: 7838618935954182845
+    second: Pink2 Slime Spritesheet_46
+  - first:
+      213: 203097511430190223
+    second: Pink2 Slime Spritesheet_47
+  - first:
+      213: 1293348614562479426
+    second: Pink2 Slime Spritesheet_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 245
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2177
+        width: 395
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4ef248d28ef13e0800000000000000
+      internalID: -2080689220632976151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2152
+        width: 348
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7b9fdfbf9da5e90800000000000000
+      internalID: -7036071791491958848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2165
+        width: 280
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c14a1d3fbdc48b0800000000000000
+      internalID: -5166512832260072372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2143
+        width: 223
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711f9f9fe43fd1f80800000000000000
+      internalID: -8134077831434342121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2172
+        width: 280
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad79ddf6e1a1ccd70800000000000000
+      internalID: 9064648868018100186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 2170
+        width: 348
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d85d2db0fe946460800000000000000
+      internalID: 7234081658267064534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 2176
+        width: 395
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7bb05de4f3707b0800000000000000
+      internalID: -5258164432117450784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1804
+        width: 394
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4aa843e65d10e10800000000000000
+      internalID: 2162243965419169021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1797
+        width: 355
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc482b1a45052e960800000000000000
+      internalID: 7629749043139347663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1791
+        width: 280
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e1f406548b0a50800000000000000
+      internalID: 6488425193142347089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1762
+        width: 223
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93713ccd4f4fde0b0800000000000000
+      internalID: -5697628621040838855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1786
+        width: 278
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dca23f42d444170800000000000000
+      internalID: 8161733245796011267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 1775
+        width: 354
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6f3c41651a83a10800000000000000
+      internalID: 1889437434769569468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1794
+        width: 395
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20482b833f2827ab0800000000000000
+      internalID: -5011799454170053630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1470
+        width: 396
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f942cfd7b7a14c10800000000000000
+      internalID: 2036092914723080690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1469
+        width: 418
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be563e5fe42ae2f50800000000000000
+      internalID: 6858597742548313579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1475
+        width: 440
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93f8503ecc05a2c0800000000000000
+      internalID: -4421113379480341602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1475
+        width: 439
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f7b91c2d464bed0800000000000000
+      internalID: -2399181845127528600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1470
+        width: 440
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e56a96ccc7393f0800000000000000
+      internalID: -895234683528913276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1430
+        width: 418
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918990c23f290f420800000000000000
+      internalID: 2661788952889497625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 1425
+        width: 394
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f228a22361e0c60800000000000000
+      internalID: 7786185210487516932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1111
+        width: 394
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd52ce50f73e15a40800000000000000
+      internalID: 5355311566619944413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1112
+        width: 418
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b966d872582b30800000000000000
+      internalID: 4262747726252979304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1114
+        width: 440
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c121f9d636d5276d0800000000000000
+      internalID: -2994228120625671652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1141
+        width: 440
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7152ef8759edd40800000000000000
+      internalID: 5611086532642674670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1138
+        width: 439
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a156edb7601e50800000000000000
+      internalID: 6778031504503187287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1126
+        width: 419
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced87d7a635f41030800000000000000
+      internalID: 3464663628447714796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1094
+        width: 395
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d969ced0704ea0800000000000000
+      internalID: -5890584210436402652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 728
+        width: 395
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbe2dd68c0d4c450800000000000000
+      internalID: 6108236553875811318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 721
+        width: 442
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6b30d9952951b40800000000000000
+      internalID: 5410391440939529911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 730
+        width: 467
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce14a16edb13c3e0800000000000000
+      internalID: -2034751964706496830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 738
+        width: 469
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74457051f9c0ad0800000000000000
+      internalID: -2734635961054640188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 751
+        width: 465
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df73abc94f0a910800000000000000
+      internalID: 1846744801198210332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 750
+        width: 441
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db604454db6de6ef0800000000000000
+      internalID: -112916832238434627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 747
+        width: 394
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b670e5197e9aacaa0800000000000000
+      internalID: -6139908329924851861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 392
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d841efdb8f255be0800000000000000
+      internalID: -1489231823973037871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 370
+        width: 441
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d214eca1e4892a0800000000000000
+      internalID: -6730543766068712052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 369
+        width: 465
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c134ac86d09adb0800000000000000
+      internalID: -4780274785755915237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 374
+        width: 469
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad39ba4d6b943c30800000000000000
+      internalID: 4338263234772024751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 374
+        width: 466
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5a0c7c31197170800000000000000
+      internalID: 8176585549944610598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 369
+        width: 442
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1987545c079f85f0800000000000000
+      internalID: -752216533537158883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 374
+        width: 419
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759e1e2bfa0e2c510800000000000000
+      internalID: 1568062665503402327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4b8bfa29fc8d9b0800000000000000
+      internalID: -5055062352803089245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4
+        width: 393
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5366910e5d4081840800000000000000
+      internalID: 5194907486806173237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4
+        width: 393
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96f8b7fdea57c5c0800000000000000
+      internalID: -4195284549762484579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 0
+        width: 381
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fc4245c9689ceb0800000000000000
+      internalID: -4699076730199683286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 3
+        width: 366
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db21337346e58cc60800000000000000
+      internalID: 7838618935954182845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 4
+        width: 366
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ff8f4c1c81d200800000000000000
+      internalID: 203097511430190223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink2 Slime Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4
+        width: 342
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7db566b5e2f110800000000000000
+      internalID: 1293348614562479426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

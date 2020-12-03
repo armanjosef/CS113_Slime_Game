@@ -10,8 +10,11 @@ public class CollisionScript : MonoBehaviour
     public Vector3 scaleChange;
 
     void OnCollisionEnter2D(Collision2D collision) {
-        Destroy(collision.gameObject);
-        spawner.enemyCount -= 1;
-        player.transform.localScale += scaleChange;
+        Vector3 enemy = collision.gameObject.transform.localScale;
+        if (enemy.x <= player.transform.localScale.x && enemy.y <= player.transform.localScale.y) {
+            Destroy(collision.gameObject);
+            spawner.enemyCount -= 1;
+            player.transform.localScale += scaleChange;
+        }
     }
 }

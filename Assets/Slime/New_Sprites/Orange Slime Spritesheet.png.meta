@@ -1,133 +1,154 @@
 fileFormatVersion: 2
-guid: 911fc246c8f7752428e4105132d0d665
+guid: 229e88aea49eb42f6a4b799084ea1770
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1537414152582025754
-    second: Pink1 Slime Spritesheet_0
+      213: 1534503832637886664
+    second: Orange Slime Spritesheet_0
   - first:
-      213: 2005211343344356265
-    second: Pink1 Slime Spritesheet_1
+      213: -3038422330108136857
+    second: Orange Slime Spritesheet_1
   - first:
-      213: 6888299385388688774
-    second: Pink1 Slime Spritesheet_2
+      213: 336397886592954804
+    second: Orange Slime Spritesheet_2
   - first:
-      213: -5026571064759883436
-    second: Pink1 Slime Spritesheet_3
+      213: -1746945230645117768
+    second: Orange Slime Spritesheet_3
   - first:
-      213: 4557549689647645788
-    second: Pink1 Slime Spritesheet_4
+      213: 4479589681697056750
+    second: Orange Slime Spritesheet_4
   - first:
-      213: 2145526961136922349
-    second: Pink1 Slime Spritesheet_5
+      213: 882105584120284067
+    second: Orange Slime Spritesheet_5
   - first:
-      213: -7852282823131222169
-    second: Pink1 Slime Spritesheet_6
+      213: -8816645972964874587
+    second: Orange Slime Spritesheet_6
   - first:
-      213: -111428582704740745
-    second: Pink1 Slime Spritesheet_7
+      213: -726557014602132552
+    second: Orange Slime Spritesheet_7
   - first:
-      213: 5198899913780340000
-    second: Pink1 Slime Spritesheet_8
+      213: 9096442663477228043
+    second: Orange Slime Spritesheet_8
   - first:
-      213: 8836912038213144427
-    second: Pink1 Slime Spritesheet_9
+      213: 5134492837653799398
+    second: Orange Slime Spritesheet_9
   - first:
-      213: 1835989979785618466
-    second: Pink1 Slime Spritesheet_10
+      213: 5850886169476172121
+    second: Orange Slime Spritesheet_10
   - first:
-      213: 8336704291984102084
-    second: Pink1 Slime Spritesheet_11
+      213: 1489112759898427901
+    second: Orange Slime Spritesheet_11
   - first:
-      213: 357983325012540985
-    second: Pink1 Slime Spritesheet_12
+      213: 3522308741485023321
+    second: Orange Slime Spritesheet_12
   - first:
-      213: 4187181600304003283
-    second: Pink1 Slime Spritesheet_13
+      213: -1715552043692340896
+    second: Orange Slime Spritesheet_13
   - first:
-      213: -868795564669904241
-    second: Pink1 Slime Spritesheet_14
+      213: -7004876850750908467
+    second: Orange Slime Spritesheet_14
   - first:
-      213: -4121426744718307618
-    second: Pink1 Slime Spritesheet_15
+      213: 5829655312657958685
+    second: Orange Slime Spritesheet_15
   - first:
-      213: -6231680527323166703
-    second: Pink1 Slime Spritesheet_16
+      213: 1383275248518206734
+    second: Orange Slime Spritesheet_16
   - first:
-      213: -8914581028807962057
-    second: Pink1 Slime Spritesheet_17
+      213: -7427734449091941770
+    second: Orange Slime Spritesheet_17
   - first:
-      213: 2458296710391331235
-    second: Pink1 Slime Spritesheet_18
+      213: -5305049311056153608
+    second: Orange Slime Spritesheet_18
   - first:
-      213: -2235730683880429217
-    second: Pink1 Slime Spritesheet_19
+      213: 3676517080544247672
+    second: Orange Slime Spritesheet_19
   - first:
-      213: 3284844761423834019
-    second: Pink1 Slime Spritesheet_20
+      213: -6716646565002850972
+    second: Orange Slime Spritesheet_20
   - first:
-      213: 1218856746304064314
-    second: Pink1 Slime Spritesheet_21
+      213: -4022024757785183345
+    second: Orange Slime Spritesheet_21
   - first:
-      213: 5397644162117665321
-    second: Pink1 Slime Spritesheet_22
+      213: 8532760410160959132
+    second: Orange Slime Spritesheet_22
   - first:
-      213: 7652369094450791921
-    second: Pink1 Slime Spritesheet_23
+      213: 8041492626820246882
+    second: Orange Slime Spritesheet_23
   - first:
-      213: 9177305553078040436
-    second: Pink1 Slime Spritesheet_24
+      213: -2375389884473411858
+    second: Orange Slime Spritesheet_24
   - first:
-      213: 1976156455690476976
-    second: Pink1 Slime Spritesheet_25
+      213: -5399581040100636031
+    second: Orange Slime Spritesheet_25
   - first:
-      213: 4200450184178528075
-    second: Pink1 Slime Spritesheet_26
+      213: -6748107355930505370
+    second: Orange Slime Spritesheet_26
   - first:
-      213: -7705705843342857996
-    second: Pink1 Slime Spritesheet_27
+      213: 150448177753251547
+    second: Orange Slime Spritesheet_27
   - first:
-      213: -8397561269189077267
-    second: Pink1 Slime Spritesheet_28
+      213: 2056944880036746386
+    second: Orange Slime Spritesheet_28
   - first:
-      213: -6705316249332367313
-    second: Pink1 Slime Spritesheet_29
+      213: 3380873798324665385
+    second: Orange Slime Spritesheet_29
   - first:
-      213: -9140718339931218828
-    second: Pink1 Slime Spritesheet_30
+      213: -5286379337737893757
+    second: Orange Slime Spritesheet_30
   - first:
-      213: -3320458746684542293
-    second: Pink1 Slime Spritesheet_31
+      213: 2080537350485425749
+    second: Orange Slime Spritesheet_31
   - first:
-      213: 1388968957069596262
-    second: Pink1 Slime Spritesheet_32
+      213: -940495113475054342
+    second: Orange Slime Spritesheet_32
   - first:
-      213: 6539414785911973154
-    second: Pink1 Slime Spritesheet_33
+      213: -5175133446533389634
+    second: Orange Slime Spritesheet_33
   - first:
-      213: -5591775127756195598
-    second: Pink1 Slime Spritesheet_34
+      213: 5725005957577992781
+    second: Orange Slime Spritesheet_34
   - first:
-      213: 7106262309072059214
-    second: Pink1 Slime Spritesheet_35
+      213: -1618839429169630064
+    second: Orange Slime Spritesheet_35
   - first:
-      213: 5917485083717989578
-    second: Pink1 Slime Spritesheet_36
+      213: 5490943410996071542
+    second: Orange Slime Spritesheet_36
   - first:
-      213: -151607067931660336
-    second: Pink1 Slime Spritesheet_37
+      213: 4754866413917459689
+    second: Orange Slime Spritesheet_37
   - first:
-      213: -2118976640346865064
-    second: Pink1 Slime Spritesheet_38
+      213: -4850931403222655876
+    second: Orange Slime Spritesheet_38
   - first:
-      213: -2382293296037109915
-    second: Pink1 Slime Spritesheet_39
+      213: -8680643445922542127
+    second: Orange Slime Spritesheet_39
   - first:
-      213: -3694721229452618435
-    second: Pink1 Slime Spritesheet_40
+      213: -2179110728095875384
+    second: Orange Slime Spritesheet_40
   - first:
-      213: -1507942821007916038
-    second: Pink1 Slime Spritesheet_41
+      213: 9058715468946650013
+    second: Orange Slime Spritesheet_41
+  - first:
+      213: 9020255968999984831
+    second: Orange Slime Spritesheet_42
+  - first:
+      213: -5080563169304668883
+    second: Orange Slime Spritesheet_43
+  - first:
+      213: -8409400104875497265
+    second: Orange Slime Spritesheet_44
+  - first:
+      213: -2642406517206064183
+    second: Orange Slime Spritesheet_45
+  - first:
+      213: 7389680255232664547
+    second: Orange Slime Spritesheet_46
+  - first:
+      213: 5563642362722253598
+    second: Orange Slime Spritesheet_47
+  - first:
+      213: 2287054220422783353
+    second: Orange Slime Spritesheet_48
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -167,11 +188,11 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 0
+  spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 120
+  spritePixelsToUnits: 245
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -188,9 +209,9 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 1
+    resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -200,9 +221,9 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
-    resizeAlgorithm: 1
+    resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -212,9 +233,9 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
-    resizeAlgorithm: 1
+    resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -225,13 +246,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_0
+      name: Orange Slime Spritesheet_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 1693
-        width: 368
-        height: 289
+        x: 30
+        y: 2222
+        width: 395
+        height: 322
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,20 +260,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6eda0ba49f10aaae0800000000000000
-      internalID: -1537414152582025754
+      spriteID: 8c05bda0b17ab4510800000000000000
+      internalID: 1534503832637886664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_1
+      name: Orange Slime Spritesheet_1
       rect:
         serializedVersion: 2
-        x: 515
-        y: 1688
-        width: 332
-        height: 303
+        x: 553
+        y: 2197
+        width: 348
+        height: 326
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,19 +281,103 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9abcf9bb711f3db10800000000000000
-      internalID: 2005211343344356265
+      spriteID: 7623a403dfa55d5d0800000000000000
+      internalID: -3038422330108136857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_2
+      name: Orange Slime Spritesheet_2
       rect:
         serializedVersion: 2
-        x: 989
-        y: 1682
-        width: 262
+        x: 1052
+        y: 2211
+        width: 280
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b09578102ba400800000000000000
+      internalID: 336397886592954804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2182
+        width: 223
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcb555819a91c7e0800000000000000
+      internalID: -1746945230645117768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2217
+        width: 280
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7ee05e413ba2e30800000000000000
+      internalID: 4479589681697056750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 2216
+        width: 348
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3c0ebea5edd3c00800000000000000
+      internalID: 882105584120284067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 2222
+        width: 395
         height: 308
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -281,251 +386,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68562a49bc7289f50800000000000000
-      internalID: 6888299385388688774
+      spriteID: 5a6ec0f333bf4a580800000000000000
+      internalID: -8816645972964874587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_3
-      rect:
-        serializedVersion: 2
-        x: 1511
-        y: 1655
-        width: 210
-        height: 335
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 459eabe9f380e3ab0800000000000000
-      internalID: -5026571064759883436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_4
-      rect:
-        serializedVersion: 2
-        x: 1948
-        y: 1677
-        width: 262
-        height: 308
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c54c3a9bb4baf3f30800000000000000
-      internalID: 4557549689647645788
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_5
-      rect:
-        serializedVersion: 2
-        x: 2372
-        y: 1666
-        width: 333
-        height: 303
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: deee696576176cd10800000000000000
-      internalID: 2145526961136922349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_6
-      rect:
-        serializedVersion: 2
-        x: 2834
-        y: 1685
-        width: 369
-        height: 287
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 76fac532066170390800000000000000
-      internalID: -7852282823131222169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_7
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 1382
-        width: 371
-        height: 287
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7760f0e5b40247ef0800000000000000
-      internalID: -111428582704740745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_8
-      rect:
-        serializedVersion: 2
-        x: 461
-        y: 1381
-        width: 391
-        height: 262
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 025afa73de3362840800000000000000
-      internalID: 5198899913780340000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_9
-      rect:
-        serializedVersion: 2
-        x: 909
-        y: 1386
-        width: 411
-        height: 241
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6f4115cda403aa70800000000000000
-      internalID: 8836912038213144427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_10
-      rect:
-        serializedVersion: 2
-        x: 1410
-        y: 1386
-        width: 412
-        height: 227
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2246c4cb82fba7910800000000000000
-      internalID: 1835989979785618466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_11
-      rect:
-        serializedVersion: 2
-        x: 1875
-        y: 1382
-        width: 412
-        height: 240
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c2df21426ce1b370800000000000000
-      internalID: 8336704291984102084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_12
-      rect:
-        serializedVersion: 2
-        x: 2352
-        y: 1343
-        width: 391
-        height: 263
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 93eb2eaffefc7f400800000000000000
-      internalID: 357983325012540985
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_13
-      rect:
-        serializedVersion: 2
-        x: 2834
-        y: 1338
-        width: 371
-        height: 289
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d8fb281b7bdb1a30800000000000000
-      internalID: 4187181600304003283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_14
+      name: Orange Slime Spritesheet_7
       rect:
         serializedVersion: 2
         x: 6
-        y: 1043
-        width: 370
-        height: 289
+        y: 1804
+        width: 394
+        height: 308
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,20 +407,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8a5a69790b61f3f0800000000000000
-      internalID: -868795564669904241
+      spriteID: 8b35293ae30cae5f0800000000000000
+      internalID: -726557014602132552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_15
+      name: Orange Slime Spritesheet_8
       rect:
         serializedVersion: 2
-        x: 447
-        y: 1046
-        width: 393
-        height: 264
+        x: 546
+        y: 1798
+        width: 355
+        height: 324
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,20 +428,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ede45414630cdc6c0800000000000000
-      internalID: -4121426744718307618
+      spriteID: b02b44c486e0d3e70800000000000000
+      internalID: 9096442663477228043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_16
+      name: Orange Slime Spritesheet_9
       rect:
         serializedVersion: 2
-        x: 909
-        y: 1047
-        width: 411
-        height: 241
+        x: 1052
+        y: 1791
+        width: 280
+        height: 329
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,20 +449,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1180f27c39f9489a0800000000000000
-      internalID: -6231680527323166703
+      spriteID: 6e1642a3802614740800000000000000
+      internalID: 5134492837653799398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_17
+      name: Orange Slime Spritesheet_10
       rect:
         serializedVersion: 2
-        x: 1415
-        y: 1073
-        width: 412
-        height: 227
+        x: 1609
+        y: 1762
+        width: 223
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,20 +470,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 732177829cb094480800000000000000
-      internalID: -8914581028807962057
+      spriteID: 9598fd8c8f5823150800000000000000
+      internalID: 5850886169476172121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_18
+      name: Orange Slime Spritesheet_11
       rect:
         serializedVersion: 2
-        x: 1883
-        y: 1070
-        width: 412
-        height: 240
+        x: 2076
+        y: 1786
+        width: 278
+        height: 329
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,20 +491,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a9f26f55df9d1220800000000000000
-      internalID: 2458296710391331235
+      spriteID: df15f3c5a246aa410800000000000000
+      internalID: 1489112759898427901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_19
+      name: Orange Slime Spritesheet_12
       rect:
         serializedVersion: 2
-        x: 2358
-        y: 1059
-        width: 391
-        height: 263
+        x: 2527
+        y: 1775
+        width: 354
+        height: 323
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,20 +512,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f59add5d9c619f0e0800000000000000
-      internalID: -2235730683880429217
+      spriteID: 950d77d6321c1e030800000000000000
+      internalID: 3522308741485023321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_20
+      name: Orange Slime Spritesheet_13
       rect:
         serializedVersion: 2
-        x: 2834
-        y: 1028
-        width: 369
-        height: 288
+        x: 3019
+        y: 1794
+        width: 395
+        height: 308
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,20 +533,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ab68fa18ec169d20800000000000000
-      internalID: 3284844761423834019
+      spriteID: 069c50271822138e0800000000000000
+      internalID: -1715552043692340896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_21
+      name: Orange Slime Spritesheet_14
       rect:
         serializedVersion: 2
-        x: 7
-        y: 685
-        width: 369
-        height: 289
+        x: 4
+        y: 1470
+        width: 396
+        height: 309
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -680,20 +554,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3bca83c0cf3ae010800000000000000
-      internalID: 1218856746304064314
+      spriteID: dc792af1e9da9ce90800000000000000
+      internalID: -7004876850750908467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_22
+      name: Orange Slime Spritesheet_15
       rect:
         serializedVersion: 2
-        x: 424
-        y: 679
-        width: 414
-        height: 292
+        x: 488
+        y: 1470
+        width: 418
+        height: 281
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,292 +575,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9220cfa74c848ea40800000000000000
-      internalID: 5397644162117665321
+      spriteID: d1742f9be9817e050800000000000000
+      internalID: 5829655312657958685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_23
+      name: Orange Slime Spritesheet_16
       rect:
         serializedVersion: 2
-        x: 890
-        y: 688
-        width: 434
-        height: 286
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f5caecb52da23a60800000000000000
-      internalID: 7652369094450791921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_24
-      rect:
-        serializedVersion: 2
-        x: 1387
-        y: 696
-        width: 438
-        height: 284
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 477bf6ee6c65c5f70800000000000000
-      internalID: 9177305553078040436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_25
-      rect:
-        serializedVersion: 2
-        x: 1872
-        y: 707
-        width: 435
-        height: 287
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0bd960a83d7bc6b10800000000000000
-      internalID: 1976156455690476976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_26
-      rect:
-        serializedVersion: 2
-        x: 2342
-        y: 706
-        width: 412
-        height: 290
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4f6fa4003ffa4a30800000000000000
-      internalID: 4200450184178528075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_27
-      rect:
-        serializedVersion: 2
-        x: 2831
-        y: 704
-        width: 369
-        height: 287
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f8a5efac55df0590800000000000000
-      internalID: -7705705843342857996
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_28
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 351
-        width: 368
-        height: 287
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de61862948ed57b80800000000000000
-      internalID: -8397561269189077267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_29
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 349
-        width: 414
-        height: 291
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f20c3e3c56ee1f2a0800000000000000
-      internalID: -6705316249332367313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_30
-      rect:
-        serializedVersion: 2
-        x: 903
-        y: 349
-        width: 435
-        height: 286
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47c50847915a52180800000000000000
-      internalID: -9140718339931218828
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_31
-      rect:
-        serializedVersion: 2
-        x: 1388
-        y: 354
-        width: 439
-        height: 284
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba27788cc5c5be1d0800000000000000
-      internalID: -3320458746684542293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_32
-      rect:
-        serializedVersion: 2
-        x: 1909
-        y: 353
-        width: 435
-        height: 287
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6669d2a48eb964310800000000000000
-      internalID: 1388968957069596262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_33
-      rect:
-        serializedVersion: 2
-        x: 2367
-        y: 349
-        width: 415
-        height: 291
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2256839b91ba0ca50800000000000000
-      internalID: 6539414785911973154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_34
-      rect:
-        serializedVersion: 2
-        x: 2834
-        y: 354
-        width: 369
-        height: 287
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f83a36d5260662b0800000000000000
-      internalID: -5591775127756195598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_35
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 1
-        width: 369
-        height: 288
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4bbcf46be38e9260800000000000000
-      internalID: 7106262309072059214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_36
-      rect:
-        serializedVersion: 2
-        x: 455
-        y: 7
-        width: 367
+        x: 966
+        y: 1475
+        width: 440
         height: 259
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -995,20 +596,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac4feaad4512f1250800000000000000
-      internalID: 5917485083717989578
+      spriteID: e0594867281623310800000000000000
+      internalID: 1383275248518206734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_37
+      name: Orange Slime Spritesheet_17
       rect:
         serializedVersion: 2
-        x: 937
-        y: 7
-        width: 368
-        height: 224
+        x: 1502
+        y: 1475
+        width: 439
+        height: 244
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,20 +617,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0dfae7acc2265edf0800000000000000
-      internalID: -151607067931660336
+      spriteID: 67a61f35fd26be890800000000000000
+      internalID: -7427734449091941770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_38
+      name: Orange Slime Spritesheet_18
       rect:
         serializedVersion: 2
-        x: 1451
-        y: 9
-        width: 357
-        height: 187
+        x: 1997
+        y: 1470
+        width: 440
+        height: 259
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1037,20 +638,629 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85246c0f8f1e792e0800000000000000
-      internalID: -2118976640346865064
+      spriteID: 8f3319a42cda066b0800000000000000
+      internalID: -5305049311056153608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_39
+      name: Orange Slime Spritesheet_19
       rect:
         serializedVersion: 2
-        x: 1954
-        y: 5
+        x: 2505
+        y: 1430
+        width: 418
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ffe744ecc950330800000000000000
+      internalID: 3676517080544247672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 1425
+        width: 394
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d4823198da9c2a0800000000000000
+      internalID: -6716646565002850972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1110
+        width: 394
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b336adac5ee28c0800000000000000
+      internalID: -4022024757785183345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1113
+        width: 418
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e092172647a6670800000000000000
+      internalID: 8532760410160959132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1114
+        width: 440
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d2b8d30fe199f60800000000000000
+      internalID: 8041492626820246882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1141
+        width: 440
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6f7e44c7be80fd0800000000000000
+      internalID: -2375389884473411858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1138
+        width: 439
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a0ed8f6a5d015b0800000000000000
+      internalID: -5399581040100636031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1128
+        width: 419
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fcf8fdc18e952a0800000000000000
+      internalID: -6748107355930505370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1094
+        width: 395
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde561012df761200800000000000000
+      internalID: 150448177753251547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 728
+        width: 395
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2941621687cbb8c10800000000000000
+      internalID: 2056944880036746386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 721
+        width: 442
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c31939ec64bee20800000000000000
+      internalID: 3380873798324665385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 731
+        width: 467
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3880b22300203a6b0800000000000000
+      internalID: -5286379337737893757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 740
+        width: 469
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebd9572bd8fdc10800000000000000
+      internalID: 2080537350485425749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 751
+        width: 465
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af424506da0b2f2f0800000000000000
+      internalID: -940495113475054342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 750
+        width: 441
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb26226ac8b3e28b0800000000000000
+      internalID: -5175133446533389634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 747
+        width: 394
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a6e66069e437f40800000000000000
+      internalID: 5725005957577992781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 392
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094b2fbbd1ab889e0800000000000000
+      internalID: -1618839429169630064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 370
+        width: 441
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c4136a0ffb33c40800000000000000
+      internalID: 5490943410996071542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 369
+        width: 465
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e45cf3afcdacf140800000000000000
+      internalID: 4754866413917459689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 374
+        width: 469
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c502117970eacb0800000000000000
+      internalID: -4850931403222655876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 374
+        width: 466
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddc6f727c8288780800000000000000
+      internalID: -8680643445922542127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 369
+        width: 442
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3a95965e32c1e0800000000000000
+      internalID: -2179110728095875384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 374
+        width: 419
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93b6ef49b507bd70800000000000000
+      internalID: 9058715468946650013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe475f23036e2d70800000000000000
+      internalID: 9020255968999984831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4
+        width: 393
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2599aa27b63e79b0800000000000000
+      internalID: -5080563169304668883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4
+        width: 393
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc863c6d82fcb4b80800000000000000
+      internalID: -8409400104875497265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 6
+        width: 381
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c361cdc549445bd0800000000000000
+      internalID: -2642406517206064183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 0
+        width: 366
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e36cd83a0b6d8660800000000000000
+      internalID: 7389680255232664547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 4
+        width: 366
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bff5f5047063d40800000000000000
+      internalID: 5563642362722253598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Slime Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4
         width: 342
-        height: 172
+        height: 173
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1058,50 +1268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56fd9e28ed460fed0800000000000000
-      internalID: -2382293296037109915
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_40
-      rect:
-        serializedVersion: 2
-        x: 2434
-        y: 7
-        width: 342
-        height: 177
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d35d1660e96b9bcc0800000000000000
-      internalID: -3694721229452618435
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pink1 Slime Spritesheet_41
-      rect:
-        serializedVersion: 2
-        x: 2907
-        y: 7
-        width: 320
-        height: 161
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af309346ef5b21be0800000000000000
-      internalID: -1507942821007916038
+      spriteID: 971ab5632bf3dbf10800000000000000
+      internalID: 2287054220422783353
       vertices: []
       indices: 
       edges: []

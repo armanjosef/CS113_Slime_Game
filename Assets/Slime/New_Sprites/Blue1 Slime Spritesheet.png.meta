@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: 99bbc434a62e943029a3ed01823d8d84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3318993164982247666
+    second: Blue1 Slime Spritesheet_0
+  - first:
+      213: 6626353809393828121
+    second: Blue1 Slime Spritesheet_1
+  - first:
+      213: -6707116130640718944
+    second: Blue1 Slime Spritesheet_2
+  - first:
+      213: 4173462220910346498
+    second: Blue1 Slime Spritesheet_3
+  - first:
+      213: 4274422340481698575
+    second: Blue1 Slime Spritesheet_4
+  - first:
+      213: 5868911128894420440
+    second: Blue1 Slime Spritesheet_5
+  - first:
+      213: -2940205029873263303
+    second: Blue1 Slime Spritesheet_6
+  - first:
+      213: 394820675131637362
+    second: Blue1 Slime Spritesheet_7
+  - first:
+      213: -6905870213340153716
+    second: Blue1 Slime Spritesheet_8
+  - first:
+      213: 8800961332416978364
+    second: Blue1 Slime Spritesheet_9
+  - first:
+      213: -3418329911223916564
+    second: Blue1 Slime Spritesheet_10
+  - first:
+      213: -7388637169485512112
+    second: Blue1 Slime Spritesheet_11
+  - first:
+      213: 7611247313395557805
+    second: Blue1 Slime Spritesheet_12
+  - first:
+      213: -7519944070399224949
+    second: Blue1 Slime Spritesheet_13
+  - first:
+      213: -6548897623765095436
+    second: Blue1 Slime Spritesheet_14
+  - first:
+      213: 7880961039571474019
+    second: Blue1 Slime Spritesheet_15
+  - first:
+      213: 4999643848287375341
+    second: Blue1 Slime Spritesheet_16
+  - first:
+      213: 7731421614703148084
+    second: Blue1 Slime Spritesheet_17
+  - first:
+      213: 4958683781729118722
+    second: Blue1 Slime Spritesheet_18
+  - first:
+      213: -7957931629598605667
+    second: Blue1 Slime Spritesheet_19
+  - first:
+      213: 1429868722884831784
+    second: Blue1 Slime Spritesheet_20
+  - first:
+      213: 5227039684928875087
+    second: Blue1 Slime Spritesheet_21
+  - first:
+      213: -9213942289058123178
+    second: Blue1 Slime Spritesheet_22
+  - first:
+      213: -8661146084370140980
+    second: Blue1 Slime Spritesheet_23
+  - first:
+      213: -7368583386054180747
+    second: Blue1 Slime Spritesheet_24
+  - first:
+      213: 169188763504349963
+    second: Blue1 Slime Spritesheet_25
+  - first:
+      213: 8240372659717954392
+    second: Blue1 Slime Spritesheet_26
+  - first:
+      213: -293794541016195437
+    second: Blue1 Slime Spritesheet_27
+  - first:
+      213: -3760563073361133681
+    second: Blue1 Slime Spritesheet_28
+  - first:
+      213: 2955785940358868864
+    second: Blue1 Slime Spritesheet_29
+  - first:
+      213: 6991407652966020779
+    second: Blue1 Slime Spritesheet_30
+  - first:
+      213: 6731473148849541213
+    second: Blue1 Slime Spritesheet_31
+  - first:
+      213: -1816132482371418786
+    second: Blue1 Slime Spritesheet_32
+  - first:
+      213: 643666525687849172
+    second: Blue1 Slime Spritesheet_33
+  - first:
+      213: 5541326233595411990
+    second: Blue1 Slime Spritesheet_34
+  - first:
+      213: 8265537435030301131
+    second: Blue1 Slime Spritesheet_35
+  - first:
+      213: -8392157468332768140
+    second: Blue1 Slime Spritesheet_36
+  - first:
+      213: -2696248799596095484
+    second: Blue1 Slime Spritesheet_37
+  - first:
+      213: -691332630185608587
+    second: Blue1 Slime Spritesheet_38
+  - first:
+      213: 1490169063415147862
+    second: Blue1 Slime Spritesheet_39
+  - first:
+      213: -1250549106218560479
+    second: Blue1 Slime Spritesheet_40
+  - first:
+      213: -5365386947838388988
+    second: Blue1 Slime Spritesheet_41
+  - first:
+      213: 8368477134335689412
+    second: Blue1 Slime Spritesheet_42
+  - first:
+      213: -6091977159684348566
+    second: Blue1 Slime Spritesheet_43
+  - first:
+      213: 5215041706550103797
+    second: Blue1 Slime Spritesheet_44
+  - first:
+      213: 4082269735242114739
+    second: Blue1 Slime Spritesheet_45
+  - first:
+      213: -6564773572077723942
+    second: Blue1 Slime Spritesheet_46
+  - first:
+      213: 2450244796043718287
+    second: Blue1 Slime Spritesheet_47
+  - first:
+      213: -1674280693242861388
+    second: Blue1 Slime Spritesheet_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 245
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2175
+        width: 395
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f067b2e2be6f0e20800000000000000
+      internalID: 3318993164982247666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2149
+        width: 348
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911c9f48ea985fb50800000000000000
+      internalID: 6626353809393828121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2163
+        width: 280
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a31edd3a698be2a0800000000000000
+      internalID: -6707116130640718944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2134
+        width: 223
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201cfd827cd1be930800000000000000
+      internalID: 4173462220910346498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2170
+        width: 280
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc768c87cc15b30800000000000000
+      internalID: 4274422340481698575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 2168
+        width: 348
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5b610b39f827150800000000000000
+      internalID: 5868911128894420440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 2171
+        width: 396
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d569b6a1b4237d0800000000000000
+      internalID: -2940205029873263303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1804
+        width: 394
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e733bef4faa7500800000000000000
+      internalID: 394820675131637362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1799
+        width: 355
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88b8ec31ab6920a0800000000000000
+      internalID: -6905870213340153716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1792
+        width: 280
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd99acc3bb432a70800000000000000
+      internalID: 8800961332416978364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1762
+        width: 223
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7e76c8e07af80d0800000000000000
+      internalID: -3418329911223916564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1787
+        width: 278
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052819a14a9467990800000000000000
+      internalID: -7388637169485512112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 1775
+        width: 354
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a69cfa1590a960800000000000000
+      internalID: 7611247313395557805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1794
+        width: 395
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839c09d5bac3a790800000000000000
+      internalID: -7519944070399224949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1470
+        width: 396
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbe4190f44ad15a0800000000000000
+      internalID: -6548897623765095436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1470
+        width: 418
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366d9547f4cce5d60800000000000000
+      internalID: 7880961039571474019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1475
+        width: 440
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defc2ac379d426540800000000000000
+      internalID: 4999643848287375341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1475
+        width: 439
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c7829eef68b4b60800000000000000
+      internalID: 7731421614703148084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1470
+        width: 440
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a647390a8c0d440800000000000000
+      internalID: 4958683781729118722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1429
+        width: 418
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9efde6885fbf8190800000000000000
+      internalID: -7957931629598605667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 1425
+        width: 394
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aedf6170ae7d310800000000000000
+      internalID: 1429868722884831784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1110
+        width: 394
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a2e0f36ec2a8840800000000000000
+      internalID: 5227039684928875087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1114
+        width: 418
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652bdbf3e40812080800000000000000
+      internalID: -9213942289058123178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1114
+        width: 440
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc03a55668d6dc780800000000000000
+      internalID: -8661146084370140980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1141
+        width: 440
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570456863788db990800000000000000
+      internalID: -7368583386054180747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1137
+        width: 439
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b031aa4b844195200800000000000000
+      internalID: 169188763504349963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1126
+        width: 419
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b545f464fab5270800000000000000
+      internalID: 8240372659717954392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1094
+        width: 395
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed7c9eb6b3cebf0800000000000000
+      internalID: -293794541016195437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 728
+        width: 395
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fbbd02fcbcfcbc0800000000000000
+      internalID: -3760563073361133681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 721
+        width: 442
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f2f2ff6af050920800000000000000
+      internalID: 2955785940358868864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 731
+        width: 467
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6bcf2e738760160800000000000000
+      internalID: 6991407652966020779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 738
+        width: 469
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d14cf92ffa6d50800000000000000
+      internalID: 6731473148849541213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 751
+        width: 465
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55043b212dcbc6e0800000000000000
+      internalID: -1816132482371418786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 749
+        width: 441
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02f697b43cee800800000000000000
+      internalID: 643666525687849172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 748
+        width: 394
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ef10aa9deb6ec40800000000000000
+      internalID: 5541326233595411990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 392
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9aca4218615b270800000000000000
+      internalID: 8265537435030301131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 370
+        width: 441
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47442e00f31198b80800000000000000
+      internalID: -8392157468332768140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 368
+        width: 465
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408500a8000059ad0800000000000000
+      internalID: -2696248799596095484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 373
+        width: 469
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a762cb2a4e766f0800000000000000
+      internalID: -691332630185608587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 373
+        width: 466
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65de2203ed42ea410800000000000000
+      internalID: 1490169063415147862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 368
+        width: 442
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12419ada63825aee0800000000000000
+      internalID: -1250549106218560479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 374
+        width: 419
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405539b7ff05a85b0800000000000000
+      internalID: -5365386947838388988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2ce079d9dc22470800000000000000
+      internalID: 8368477134335689412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4
+        width: 393
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a839cc03f47ba0800000000000000
+      internalID: -6091977159684348566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4
+        width: 393
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe04c73dcc8f5840800000000000000
+      internalID: 5215041706550103797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 6
+        width: 381
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b62f6602b227a830800000000000000
+      internalID: 4082269735242114739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 0
+        width: 366
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade5f65c73d35e4a0800000000000000
+      internalID: -6564773572077723942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 4
+        width: 366
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e6fe8f8a4010220800000000000000
+      internalID: 2450244796043718287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1 Slime Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4
+        width: 342
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8e6f88492c3c8e0800000000000000
+      internalID: -1674280693242861388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

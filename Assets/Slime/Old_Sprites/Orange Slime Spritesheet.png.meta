@@ -1,133 +1,133 @@
 fileFormatVersion: 2
-guid: 6e2f86fb3d106b44389a3764cf54f742
+guid: 53834170900096c4fa5164ab7b696753
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3681242552176469248
-    second: Gray_Slime_Spritesheet_0
+      213: 1534503832637886664
+    second: Orange Slime Spritesheet_0
   - first:
-      213: -2115523197582650989
-    second: Gray_Slime_Spritesheet_1
+      213: -3038422330108136857
+    second: Orange Slime Spritesheet_1
   - first:
-      213: -1267340338879411346
-    second: Gray_Slime_Spritesheet_2
+      213: 336397886592954804
+    second: Orange Slime Spritesheet_2
   - first:
-      213: -7562118173860037393
-    second: Gray_Slime_Spritesheet_3
+      213: -1746945230645117768
+    second: Orange Slime Spritesheet_3
   - first:
-      213: 303512612108994750
-    second: Gray_Slime_Spritesheet_4
+      213: 4479589681697056750
+    second: Orange Slime Spritesheet_4
   - first:
-      213: -2975266124990092813
-    second: Gray_Slime_Spritesheet_5
+      213: 882105584120284067
+    second: Orange Slime Spritesheet_5
   - first:
-      213: -9166933993148001353
-    second: Gray_Slime_Spritesheet_6
+      213: -8816645972964874587
+    second: Orange Slime Spritesheet_6
   - first:
-      213: 7592310696155574402
-    second: Gray_Slime_Spritesheet_7
+      213: -726557014602132552
+    second: Orange Slime Spritesheet_7
   - first:
-      213: 695725534787435040
-    second: Gray_Slime_Spritesheet_8
+      213: 9096442663477228043
+    second: Orange Slime Spritesheet_8
   - first:
-      213: 5663550743728153859
-    second: Gray_Slime_Spritesheet_9
+      213: 5134492837653799398
+    second: Orange Slime Spritesheet_9
   - first:
-      213: -2614821409959955873
-    second: Gray_Slime_Spritesheet_10
+      213: 5850886169476172121
+    second: Orange Slime Spritesheet_10
   - first:
-      213: 8138617117831581751
-    second: Gray_Slime_Spritesheet_11
+      213: 1489112759898427901
+    second: Orange Slime Spritesheet_11
   - first:
-      213: -1856573496458416834
-    second: Gray_Slime_Spritesheet_12
+      213: 3522308741485023321
+    second: Orange Slime Spritesheet_12
   - first:
-      213: 273130504280286233
-    second: Gray_Slime_Spritesheet_13
+      213: -1715552043692340896
+    second: Orange Slime Spritesheet_13
   - first:
-      213: 5462065261339307154
-    second: Gray_Slime_Spritesheet_14
+      213: -7004876850750908467
+    second: Orange Slime Spritesheet_14
   - first:
-      213: 7510921228364429354
-    second: Gray_Slime_Spritesheet_15
+      213: 5829655312657958685
+    second: Orange Slime Spritesheet_15
   - first:
-      213: -702561750643720975
-    second: Gray_Slime_Spritesheet_16
+      213: 1383275248518206734
+    second: Orange Slime Spritesheet_16
   - first:
-      213: 2355664045002673565
-    second: Gray_Slime_Spritesheet_17
+      213: -7427734449091941770
+    second: Orange Slime Spritesheet_17
   - first:
-      213: 740841140536908167
-    second: Gray_Slime_Spritesheet_18
+      213: -5305049311056153608
+    second: Orange Slime Spritesheet_18
   - first:
-      213: -5971206298485354517
-    second: Gray_Slime_Spritesheet_19
+      213: 3676517080544247672
+    second: Orange Slime Spritesheet_19
   - first:
-      213: -8920185900212986029
-    second: Gray_Slime_Spritesheet_20
+      213: -6716646565002850972
+    second: Orange Slime Spritesheet_20
   - first:
-      213: -4884715933889080372
-    second: Gray_Slime_Spritesheet_21
+      213: -4022024757785183345
+    second: Orange Slime Spritesheet_21
   - first:
-      213: -2433051744880238016
-    second: Gray_Slime_Spritesheet_22
+      213: 8532760410160959132
+    second: Orange Slime Spritesheet_22
   - first:
-      213: -3370706449594059500
-    second: Gray_Slime_Spritesheet_23
+      213: 8041492626820246882
+    second: Orange Slime Spritesheet_23
   - first:
-      213: -3495605954055391203
-    second: Gray_Slime_Spritesheet_24
+      213: -2375389884473411858
+    second: Orange Slime Spritesheet_24
   - first:
-      213: -667639628483172529
-    second: Gray_Slime_Spritesheet_25
+      213: -5399581040100636031
+    second: Orange Slime Spritesheet_25
   - first:
-      213: -3260734214735636039
-    second: Gray_Slime_Spritesheet_26
+      213: -6748107355930505370
+    second: Orange Slime Spritesheet_26
   - first:
-      213: 464802874554531435
-    second: Gray_Slime_Spritesheet_27
+      213: 150448177753251547
+    second: Orange Slime Spritesheet_27
   - first:
-      213: -523777145673619917
-    second: Gray_Slime_Spritesheet_28
+      213: 2056944880036746386
+    second: Orange Slime Spritesheet_28
   - first:
-      213: 7849580374424064324
-    second: Gray_Slime_Spritesheet_29
+      213: 3380873798324665385
+    second: Orange Slime Spritesheet_29
   - first:
-      213: -2238591135853353208
-    second: Gray_Slime_Spritesheet_30
+      213: -5286379337737893757
+    second: Orange Slime Spritesheet_30
   - first:
-      213: 7956122572138302430
-    second: Gray_Slime_Spritesheet_31
+      213: 2080537350485425749
+    second: Orange Slime Spritesheet_31
   - first:
-      213: 3606683211985927521
-    second: Gray_Slime_Spritesheet_32
+      213: -940495113475054342
+    second: Orange Slime Spritesheet_32
   - first:
-      213: -7930969885765395891
-    second: Gray_Slime_Spritesheet_33
+      213: -5175133446533389634
+    second: Orange Slime Spritesheet_33
   - first:
-      213: 1156944990001119016
-    second: Gray_Slime_Spritesheet_34
+      213: 5725005957577992781
+    second: Orange Slime Spritesheet_34
   - first:
-      213: -8965447390941237798
-    second: Gray_Slime_Spritesheet_35
+      213: -1618839429169630064
+    second: Orange Slime Spritesheet_35
   - first:
-      213: -6563437211228980153
-    second: Gray_Slime_Spritesheet_36
+      213: 5490943410996071542
+    second: Orange Slime Spritesheet_36
   - first:
-      213: -6358412220114901504
-    second: Gray_Slime_Spritesheet_37
+      213: 4754866413917459689
+    second: Orange Slime Spritesheet_37
   - first:
-      213: -1707898690099322543
-    second: Gray_Slime_Spritesheet_38
+      213: -4850931403222655876
+    second: Orange Slime Spritesheet_38
   - first:
-      213: -5790084411079147846
-    second: Gray_Slime_Spritesheet_39
+      213: -8680643445922542127
+    second: Orange Slime Spritesheet_39
   - first:
-      213: -4484308000613801526
-    second: Gray_Slime_Spritesheet_40
+      213: -2179110728095875384
+    second: Orange Slime Spritesheet_40
   - first:
-      213: 7562272232661394256
-    second: Gray_Slime_Spritesheet_41
+      213: 9058715468946650013
+    second: Orange Slime Spritesheet_41
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -171,7 +171,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 120
+  spritePixelsToUnits: 230
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -225,7 +225,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_0
+      name: Orange Slime Spritesheet_0
       rect:
         serializedVersion: 2
         x: 10
@@ -239,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 005e78ed896661330800000000000000
-      internalID: 3681242552176469248
+      spriteID: 8c05bda0b17ab4510800000000000000
+      internalID: 1534503832637886664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_1
+      name: Orange Slime Spritesheet_1
       rect:
         serializedVersion: 2
         x: 515
@@ -260,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 391dcfd3cd624a2e0800000000000000
-      internalID: -2115523197582650989
+      spriteID: 7623a403dfa55d5d0800000000000000
+      internalID: -3038422330108136857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_2
+      name: Orange Slime Spritesheet_2
       rect:
         serializedVersion: 2
         x: 989
@@ -281,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6bc19b2da0896ee0800000000000000
-      internalID: -1267340338879411346
+      spriteID: 4b1b09578102ba400800000000000000
+      internalID: 336397886592954804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_3
+      name: Orange Slime Spritesheet_3
       rect:
         serializedVersion: 2
         x: 1511
@@ -302,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fecfb813695fd0790800000000000000
-      internalID: -7562118173860037393
+      spriteID: 8bcb555819a91c7e0800000000000000
+      internalID: -1746945230645117768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_4
+      name: Orange Slime Spritesheet_4
       rect:
         serializedVersion: 2
         x: 1948
@@ -323,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb88b95dc1b463400800000000000000
-      internalID: 303512612108994750
+      spriteID: ee7ee05e413ba2e30800000000000000
+      internalID: 4479589681697056750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_5
+      name: Orange Slime Spritesheet_5
       rect:
         serializedVersion: 2
         x: 2372
@@ -344,14 +344,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f966b3193bb5b6d0800000000000000
-      internalID: -2975266124990092813
+      spriteID: 3a3c0ebea5edd3c00800000000000000
+      internalID: 882105584120284067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_6
+      name: Orange Slime Spritesheet_6
       rect:
         serializedVersion: 2
         x: 2834
@@ -365,14 +365,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b3d5fa0a1288c080800000000000000
-      internalID: -9166933993148001353
+      spriteID: 5a6ec0f333bf4a580800000000000000
+      internalID: -8816645972964874587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_7
+      name: Orange Slime Spritesheet_7
       rect:
         serializedVersion: 2
         x: 7
@@ -386,14 +386,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28070c43a5e4d5960800000000000000
-      internalID: 7592310696155574402
+      spriteID: 8b35293ae30cae5f0800000000000000
+      internalID: -726557014602132552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_8
+      name: Orange Slime Spritesheet_8
       rect:
         serializedVersion: 2
         x: 461
@@ -407,14 +407,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02a7c2210b6b7a900800000000000000
-      internalID: 695725534787435040
+      spriteID: b02b44c486e0d3e70800000000000000
+      internalID: 9096442663477228043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_9
+      name: Orange Slime Spritesheet_9
       rect:
         serializedVersion: 2
         x: 909
@@ -428,14 +428,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 305e0570569f89e40800000000000000
-      internalID: 5663550743728153859
+      spriteID: 6e1642a3802614740800000000000000
+      internalID: 5134492837653799398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_10
+      name: Orange Slime Spritesheet_10
       rect:
         serializedVersion: 2
         x: 1410
@@ -449,14 +449,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f52304418c946bbd0800000000000000
-      internalID: -2614821409959955873
+      spriteID: 9598fd8c8f5823150800000000000000
+      internalID: 5850886169476172121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_11
+      name: Orange Slime Spritesheet_11
       rect:
         serializedVersion: 2
         x: 1875
@@ -470,14 +470,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 730d34ff52d22f070800000000000000
-      internalID: 8138617117831581751
+      spriteID: df15f3c5a246aa410800000000000000
+      internalID: 1489112759898427901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_12
+      name: Orange Slime Spritesheet_12
       rect:
         serializedVersion: 2
         x: 2352
@@ -491,14 +491,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3de034dd302c36e0800000000000000
-      internalID: -1856573496458416834
+      spriteID: 950d77d6321c1e030800000000000000
+      internalID: 3522308741485023321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_13
+      name: Orange Slime Spritesheet_13
       rect:
         serializedVersion: 2
         x: 2834
@@ -512,14 +512,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91423fc1fba5ac300800000000000000
-      internalID: 273130504280286233
+      spriteID: 069c50271822138e0800000000000000
+      internalID: -1715552043692340896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_14
+      name: Orange Slime Spritesheet_14
       rect:
         serializedVersion: 2
         x: 6
@@ -533,14 +533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29c612a7a672dcb40800000000000000
-      internalID: 5462065261339307154
+      spriteID: dc792af1e9da9ce90800000000000000
+      internalID: -7004876850750908467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_15
+      name: Orange Slime Spritesheet_15
       rect:
         serializedVersion: 2
         x: 447
@@ -554,14 +554,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a283a9800172c3860800000000000000
-      internalID: 7510921228364429354
+      spriteID: d1742f9be9817e050800000000000000
+      internalID: 5829655312657958685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_16
+      name: Orange Slime Spritesheet_16
       rect:
         serializedVersion: 2
         x: 909
@@ -575,14 +575,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fcba146fcfff36f0800000000000000
-      internalID: -702561750643720975
+      spriteID: e0594867281623310800000000000000
+      internalID: 1383275248518206734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_17
+      name: Orange Slime Spritesheet_17
       rect:
         serializedVersion: 2
         x: 1415
@@ -596,14 +596,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9d4b84d7fff0b020800000000000000
-      internalID: 2355664045002673565
+      spriteID: 67a61f35fd26be890800000000000000
+      internalID: -7427734449091941770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_18
+      name: Orange Slime Spritesheet_18
       rect:
         serializedVersion: 2
         x: 1883
@@ -617,14 +617,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78992b8971ff74a00800000000000000
-      internalID: 740841140536908167
+      spriteID: 8f3319a42cda066b0800000000000000
+      internalID: -5305049311056153608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_19
+      name: Orange Slime Spritesheet_19
       rect:
         serializedVersion: 2
         x: 2358
@@ -638,14 +638,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bef84322283022da0800000000000000
-      internalID: -5971206298485354517
+      spriteID: 87ffe744ecc950330800000000000000
+      internalID: 3676517080544247672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_20
+      name: Orange Slime Spritesheet_20
       rect:
         serializedVersion: 2
         x: 2834
@@ -659,14 +659,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35f5b575f22253480800000000000000
-      internalID: -8920185900212986029
+      spriteID: 46d4823198da9c2a0800000000000000
+      internalID: -6716646565002850972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_21
+      name: Orange Slime Spritesheet_21
       rect:
         serializedVersion: 2
         x: 7
@@ -680,14 +680,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc3d9db0db0063cb0800000000000000
-      internalID: -4884715933889080372
+      spriteID: f8b336adac5ee28c0800000000000000
+      internalID: -4022024757785183345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_22
+      name: Orange Slime Spritesheet_22
       rect:
         serializedVersion: 2
         x: 424
@@ -701,14 +701,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 042e44234501c3ed0800000000000000
-      internalID: -2433051744880238016
+      spriteID: c9e092172647a6670800000000000000
+      internalID: 8532760410160959132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_23
+      name: Orange Slime Spritesheet_23
       rect:
         serializedVersion: 2
         x: 890
@@ -722,14 +722,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 415f3d5c758d831d0800000000000000
-      internalID: -3370706449594059500
+      spriteID: 26d2b8d30fe199f60800000000000000
+      internalID: 8041492626820246882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_24
+      name: Orange Slime Spritesheet_24
       rect:
         serializedVersion: 2
         x: 1387
@@ -743,14 +743,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d18b9c1c7ec1d7fc0800000000000000
-      internalID: -3495605954055391203
+      spriteID: ee6f7e44c7be80fd0800000000000000
+      internalID: -2375389884473411858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_25
+      name: Orange Slime Spritesheet_25
       rect:
         serializedVersion: 2
         x: 1872
@@ -764,14 +764,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4769429b411cb6f0800000000000000
-      internalID: -667639628483172529
+      spriteID: 18a0ed8f6a5d015b0800000000000000
+      internalID: -5399581040100636031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_26
+      name: Orange Slime Spritesheet_26
       rect:
         serializedVersion: 2
         x: 2342
@@ -785,14 +785,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b958bff18b8fb2d0800000000000000
-      internalID: -3260734214735636039
+      spriteID: 66fcf8fdc18e952a0800000000000000
+      internalID: -6748107355930505370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_27
+      name: Orange Slime Spritesheet_27
       rect:
         serializedVersion: 2
         x: 2831
@@ -806,14 +806,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6e376470cf437600800000000000000
-      internalID: 464802874554531435
+      spriteID: bde561012df761200800000000000000
+      internalID: 150448177753251547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_28
+      name: Orange Slime Spritesheet_28
       rect:
         serializedVersion: 2
         x: 2
@@ -827,14 +827,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 336e7aa067b2bb8f0800000000000000
-      internalID: -523777145673619917
+      spriteID: 2941621687cbb8c10800000000000000
+      internalID: 2056944880036746386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_29
+      name: Orange Slime Spritesheet_29
       rect:
         serializedVersion: 2
         x: 415
@@ -848,14 +848,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4419c6df2cf4fec60800000000000000
-      internalID: 7849580374424064324
+      spriteID: 92c31939ec64bee20800000000000000
+      internalID: 3380873798324665385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_30
+      name: Orange Slime Spritesheet_30
       rect:
         serializedVersion: 2
         x: 903
@@ -869,14 +869,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8076f16f83deee0e0800000000000000
-      internalID: -2238591135853353208
+      spriteID: 3880b22300203a6b0800000000000000
+      internalID: -5286379337737893757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_31
+      name: Orange Slime Spritesheet_31
       rect:
         serializedVersion: 2
         x: 1388
@@ -890,14 +890,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edb45c57353d96e60800000000000000
-      internalID: 7956122572138302430
+      spriteID: 55ebd9572bd8fdc10800000000000000
+      internalID: 2080537350485425749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_32
+      name: Orange Slime Spritesheet_32
       rect:
         serializedVersion: 2
         x: 1909
@@ -911,14 +911,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16d39c3b5438d0230800000000000000
-      internalID: 3606683211985927521
+      spriteID: af424506da0b2f2f0800000000000000
+      internalID: -940495113475054342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_33
+      name: Orange Slime Spritesheet_33
       rect:
         serializedVersion: 2
         x: 2367
@@ -932,14 +932,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4a12a2b8e88fe190800000000000000
-      internalID: -7930969885765395891
+      spriteID: eb26226ac8b3e28b0800000000000000
+      internalID: -5175133446533389634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_34
+      name: Orange Slime Spritesheet_34
       rect:
         serializedVersion: 2
         x: 2834
@@ -953,14 +953,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82f3fa1b65b4e0010800000000000000
-      internalID: 1156944990001119016
+      spriteID: d4a6e66069e437f40800000000000000
+      internalID: 5725005957577992781
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_35
+      name: Orange Slime Spritesheet_35
       rect:
         serializedVersion: 2
         x: 9
@@ -974,14 +974,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: addae725915549380800000000000000
-      internalID: -8965447390941237798
+      spriteID: 094b2fbbd1ab889e0800000000000000
+      internalID: -1618839429169630064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_36
+      name: Orange Slime Spritesheet_36
       rect:
         serializedVersion: 2
         x: 455
@@ -995,14 +995,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74cbd1781acf9e4a0800000000000000
-      internalID: -6563437211228980153
+      spriteID: 67c4136a0ffb33c40800000000000000
+      internalID: 5490943410996071542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_37
+      name: Orange Slime Spritesheet_37
       rect:
         serializedVersion: 2
         x: 937
@@ -1016,14 +1016,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0066c8c26c162c7a0800000000000000
-      internalID: -6358412220114901504
+      spriteID: 9e45cf3afcdacf140800000000000000
+      internalID: 4754866413917459689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_38
+      name: Orange Slime Spritesheet_38
       rect:
         serializedVersion: 2
         x: 1451
@@ -1037,14 +1037,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1516640b0335c48e0800000000000000
-      internalID: -1707898690099322543
+      spriteID: c7c502117970eacb0800000000000000
+      internalID: -4850931403222655876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_39
+      name: Orange Slime Spritesheet_39
       rect:
         serializedVersion: 2
         x: 1954
@@ -1058,14 +1058,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abeb912c7ec75afa0800000000000000
-      internalID: -5790084411079147846
+      spriteID: 1ddc6f727c8288780800000000000000
+      internalID: -8680643445922542127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_40
+      name: Orange Slime Spritesheet_40
       rect:
         serializedVersion: 2
         x: 2434
@@ -1079,14 +1079,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac1e8ffd1a984c1c0800000000000000
-      internalID: -4484308000613801526
+      spriteID: 8ce3a95965e32c1e0800000000000000
+      internalID: -2179110728095875384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gray_Slime_Spritesheet_41
+      name: Orange Slime Spritesheet_41
       rect:
         serializedVersion: 2
         x: 2907
@@ -1100,8 +1100,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 053259a678692f860800000000000000
-      internalID: 7562272232661394256
+      spriteID: d93b6ef49b507bd70800000000000000
+      internalID: 9058715468946650013
       vertices: []
       indices: 
       edges: []
