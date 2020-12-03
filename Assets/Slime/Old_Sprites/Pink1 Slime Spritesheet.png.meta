@@ -1,133 +1,133 @@
 fileFormatVersion: 2
-guid: 696e9045f9eae8f4abaa64e0e09df580
+guid: 911fc246c8f7752428e4105132d0d665
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3318993164982247666
-    second: Blue1 Slime Spritesheet_0
+      213: -1537414152582025754
+    second: Pink1 Slime Spritesheet_0
   - first:
-      213: 6626353809393828121
-    second: Blue1 Slime Spritesheet_1
+      213: 2005211343344356265
+    second: Pink1 Slime Spritesheet_1
   - first:
-      213: -6707116130640718944
-    second: Blue1 Slime Spritesheet_2
+      213: 6888299385388688774
+    second: Pink1 Slime Spritesheet_2
   - first:
-      213: 4173462220910346498
-    second: Blue1 Slime Spritesheet_3
+      213: -5026571064759883436
+    second: Pink1 Slime Spritesheet_3
   - first:
-      213: 4274422340481698575
-    second: Blue1 Slime Spritesheet_4
+      213: 4557549689647645788
+    second: Pink1 Slime Spritesheet_4
   - first:
-      213: 5868911128894420440
-    second: Blue1 Slime Spritesheet_5
+      213: 2145526961136922349
+    second: Pink1 Slime Spritesheet_5
   - first:
-      213: -2940205029873263303
-    second: Blue1 Slime Spritesheet_6
+      213: -7852282823131222169
+    second: Pink1 Slime Spritesheet_6
   - first:
-      213: 394820675131637362
-    second: Blue1 Slime Spritesheet_7
+      213: -111428582704740745
+    second: Pink1 Slime Spritesheet_7
   - first:
-      213: -6905870213340153716
-    second: Blue1 Slime Spritesheet_8
+      213: 5198899913780340000
+    second: Pink1 Slime Spritesheet_8
   - first:
-      213: 8800961332416978364
-    second: Blue1 Slime Spritesheet_9
+      213: 8836912038213144427
+    second: Pink1 Slime Spritesheet_9
   - first:
-      213: -3418329911223916564
-    second: Blue1 Slime Spritesheet_10
+      213: 1835989979785618466
+    second: Pink1 Slime Spritesheet_10
   - first:
-      213: -7388637169485512112
-    second: Blue1 Slime Spritesheet_11
+      213: 8336704291984102084
+    second: Pink1 Slime Spritesheet_11
   - first:
-      213: 7611247313395557805
-    second: Blue1 Slime Spritesheet_12
+      213: 357983325012540985
+    second: Pink1 Slime Spritesheet_12
   - first:
-      213: -7519944070399224949
-    second: Blue1 Slime Spritesheet_13
+      213: 4187181600304003283
+    second: Pink1 Slime Spritesheet_13
   - first:
-      213: -6548897623765095436
-    second: Blue1 Slime Spritesheet_14
+      213: -868795564669904241
+    second: Pink1 Slime Spritesheet_14
   - first:
-      213: 7880961039571474019
-    second: Blue1 Slime Spritesheet_15
+      213: -4121426744718307618
+    second: Pink1 Slime Spritesheet_15
   - first:
-      213: 4999643848287375341
-    second: Blue1 Slime Spritesheet_16
+      213: -6231680527323166703
+    second: Pink1 Slime Spritesheet_16
   - first:
-      213: 7731421614703148084
-    second: Blue1 Slime Spritesheet_17
+      213: -8914581028807962057
+    second: Pink1 Slime Spritesheet_17
   - first:
-      213: 4958683781729118722
-    second: Blue1 Slime Spritesheet_18
+      213: 2458296710391331235
+    second: Pink1 Slime Spritesheet_18
   - first:
-      213: -7957931629598605667
-    second: Blue1 Slime Spritesheet_19
+      213: -2235730683880429217
+    second: Pink1 Slime Spritesheet_19
   - first:
-      213: 1429868722884831784
-    second: Blue1 Slime Spritesheet_20
+      213: 3284844761423834019
+    second: Pink1 Slime Spritesheet_20
   - first:
-      213: 5227039684928875087
-    second: Blue1 Slime Spritesheet_21
+      213: 1218856746304064314
+    second: Pink1 Slime Spritesheet_21
   - first:
-      213: -9213942289058123178
-    second: Blue1 Slime Spritesheet_22
+      213: 5397644162117665321
+    second: Pink1 Slime Spritesheet_22
   - first:
-      213: -8661146084370140980
-    second: Blue1 Slime Spritesheet_23
+      213: 7652369094450791921
+    second: Pink1 Slime Spritesheet_23
   - first:
-      213: -7368583386054180747
-    second: Blue1 Slime Spritesheet_24
+      213: 9177305553078040436
+    second: Pink1 Slime Spritesheet_24
   - first:
-      213: 169188763504349963
-    second: Blue1 Slime Spritesheet_25
+      213: 1976156455690476976
+    second: Pink1 Slime Spritesheet_25
   - first:
-      213: 8240372659717954392
-    second: Blue1 Slime Spritesheet_26
+      213: 4200450184178528075
+    second: Pink1 Slime Spritesheet_26
   - first:
-      213: -293794541016195437
-    second: Blue1 Slime Spritesheet_27
+      213: -7705705843342857996
+    second: Pink1 Slime Spritesheet_27
   - first:
-      213: -3760563073361133681
-    second: Blue1 Slime Spritesheet_28
+      213: -8397561269189077267
+    second: Pink1 Slime Spritesheet_28
   - first:
-      213: 2955785940358868864
-    second: Blue1 Slime Spritesheet_29
+      213: -6705316249332367313
+    second: Pink1 Slime Spritesheet_29
   - first:
-      213: 6991407652966020779
-    second: Blue1 Slime Spritesheet_30
+      213: -9140718339931218828
+    second: Pink1 Slime Spritesheet_30
   - first:
-      213: 6731473148849541213
-    second: Blue1 Slime Spritesheet_31
+      213: -3320458746684542293
+    second: Pink1 Slime Spritesheet_31
   - first:
-      213: -1816132482371418786
-    second: Blue1 Slime Spritesheet_32
+      213: 1388968957069596262
+    second: Pink1 Slime Spritesheet_32
   - first:
-      213: 643666525687849172
-    second: Blue1 Slime Spritesheet_33
+      213: 6539414785911973154
+    second: Pink1 Slime Spritesheet_33
   - first:
-      213: 5541326233595411990
-    second: Blue1 Slime Spritesheet_34
+      213: -5591775127756195598
+    second: Pink1 Slime Spritesheet_34
   - first:
-      213: 8265537435030301131
-    second: Blue1 Slime Spritesheet_35
+      213: 7106262309072059214
+    second: Pink1 Slime Spritesheet_35
   - first:
-      213: -8392157468332768140
-    second: Blue1 Slime Spritesheet_36
+      213: 5917485083717989578
+    second: Pink1 Slime Spritesheet_36
   - first:
-      213: -2696248799596095484
-    second: Blue1 Slime Spritesheet_37
+      213: -151607067931660336
+    second: Pink1 Slime Spritesheet_37
   - first:
-      213: -691332630185608587
-    second: Blue1 Slime Spritesheet_38
+      213: -2118976640346865064
+    second: Pink1 Slime Spritesheet_38
   - first:
-      213: 1490169063415147862
-    second: Blue1 Slime Spritesheet_39
+      213: -2382293296037109915
+    second: Pink1 Slime Spritesheet_39
   - first:
-      213: -1250549106218560479
-    second: Blue1 Slime Spritesheet_40
+      213: -3694721229452618435
+    second: Pink1 Slime Spritesheet_40
   - first:
-      213: -5365386947838388988
-    second: Blue1 Slime Spritesheet_41
+      213: -1507942821007916038
+    second: Pink1 Slime Spritesheet_41
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -171,9 +171,9 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 120
+  spritePixelsToUnits: 230
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 0
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -225,7 +225,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_0
+      name: Pink1 Slime Spritesheet_0
       rect:
         serializedVersion: 2
         x: 10
@@ -239,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f067b2e2be6f0e20800000000000000
-      internalID: 3318993164982247666
+      spriteID: 6eda0ba49f10aaae0800000000000000
+      internalID: -1537414152582025754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_1
+      name: Pink1 Slime Spritesheet_1
       rect:
         serializedVersion: 2
         x: 515
@@ -260,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 911c9f48ea985fb50800000000000000
-      internalID: 6626353809393828121
+      spriteID: 9abcf9bb711f3db10800000000000000
+      internalID: 2005211343344356265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_2
+      name: Pink1 Slime Spritesheet_2
       rect:
         serializedVersion: 2
         x: 989
@@ -281,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a31edd3a698be2a0800000000000000
-      internalID: -6707116130640718944
+      spriteID: 68562a49bc7289f50800000000000000
+      internalID: 6888299385388688774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_3
+      name: Pink1 Slime Spritesheet_3
       rect:
         serializedVersion: 2
         x: 1511
@@ -302,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 201cfd827cd1be930800000000000000
-      internalID: 4173462220910346498
+      spriteID: 459eabe9f380e3ab0800000000000000
+      internalID: -5026571064759883436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_4
+      name: Pink1 Slime Spritesheet_4
       rect:
         serializedVersion: 2
         x: 1948
@@ -323,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0bc768c87cc15b30800000000000000
-      internalID: 4274422340481698575
+      spriteID: c54c3a9bb4baf3f30800000000000000
+      internalID: 4557549689647645788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_5
+      name: Pink1 Slime Spritesheet_5
       rect:
         serializedVersion: 2
         x: 2372
@@ -344,14 +344,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d5b610b39f827150800000000000000
-      internalID: 5868911128894420440
+      spriteID: deee696576176cd10800000000000000
+      internalID: 2145526961136922349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_6
+      name: Pink1 Slime Spritesheet_6
       rect:
         serializedVersion: 2
         x: 2834
@@ -365,14 +365,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93d569b6a1b4237d0800000000000000
-      internalID: -2940205029873263303
+      spriteID: 76fac532066170390800000000000000
+      internalID: -7852282823131222169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_7
+      name: Pink1 Slime Spritesheet_7
       rect:
         serializedVersion: 2
         x: 7
@@ -386,14 +386,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27e733bef4faa7500800000000000000
-      internalID: 394820675131637362
+      spriteID: 7760f0e5b40247ef0800000000000000
+      internalID: -111428582704740745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_8
+      name: Pink1 Slime Spritesheet_8
       rect:
         serializedVersion: 2
         x: 461
@@ -407,14 +407,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c88b8ec31ab6920a0800000000000000
-      internalID: -6905870213340153716
+      spriteID: 025afa73de3362840800000000000000
+      internalID: 5198899913780340000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_9
+      name: Pink1 Slime Spritesheet_9
       rect:
         serializedVersion: 2
         x: 909
@@ -428,14 +428,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbd99acc3bb432a70800000000000000
-      internalID: 8800961332416978364
+      spriteID: b6f4115cda403aa70800000000000000
+      internalID: 8836912038213144427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_10
+      name: Pink1 Slime Spritesheet_10
       rect:
         serializedVersion: 2
         x: 1410
@@ -449,14 +449,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce7e76c8e07af80d0800000000000000
-      internalID: -3418329911223916564
+      spriteID: 2246c4cb82fba7910800000000000000
+      internalID: 1835989979785618466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_11
+      name: Pink1 Slime Spritesheet_11
       rect:
         serializedVersion: 2
         x: 1875
@@ -470,14 +470,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 052819a14a9467990800000000000000
-      internalID: -7388637169485512112
+      spriteID: 4c2df21426ce1b370800000000000000
+      internalID: 8336704291984102084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_12
+      name: Pink1 Slime Spritesheet_12
       rect:
         serializedVersion: 2
         x: 2352
@@ -491,14 +491,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da5a69cfa1590a960800000000000000
-      internalID: 7611247313395557805
+      spriteID: 93eb2eaffefc7f400800000000000000
+      internalID: 357983325012540985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_13
+      name: Pink1 Slime Spritesheet_13
       rect:
         serializedVersion: 2
         x: 2834
@@ -512,14 +512,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b839c09d5bac3a790800000000000000
-      internalID: -7519944070399224949
+      spriteID: 3d8fb281b7bdb1a30800000000000000
+      internalID: 4187181600304003283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_14
+      name: Pink1 Slime Spritesheet_14
       rect:
         serializedVersion: 2
         x: 6
@@ -533,14 +533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fbe4190f44ad15a0800000000000000
-      internalID: -6548897623765095436
+      spriteID: f8a5a69790b61f3f0800000000000000
+      internalID: -868795564669904241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_15
+      name: Pink1 Slime Spritesheet_15
       rect:
         serializedVersion: 2
         x: 447
@@ -554,14 +554,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 366d9547f4cce5d60800000000000000
-      internalID: 7880961039571474019
+      spriteID: ede45414630cdc6c0800000000000000
+      internalID: -4121426744718307618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_16
+      name: Pink1 Slime Spritesheet_16
       rect:
         serializedVersion: 2
         x: 909
@@ -575,14 +575,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: defc2ac379d426540800000000000000
-      internalID: 4999643848287375341
+      spriteID: 1180f27c39f9489a0800000000000000
+      internalID: -6231680527323166703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_17
+      name: Pink1 Slime Spritesheet_17
       rect:
         serializedVersion: 2
         x: 1415
@@ -596,14 +596,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43c7829eef68b4b60800000000000000
-      internalID: 7731421614703148084
+      spriteID: 732177829cb094480800000000000000
+      internalID: -8914581028807962057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_18
+      name: Pink1 Slime Spritesheet_18
       rect:
         serializedVersion: 2
         x: 1883
@@ -617,14 +617,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20a647390a8c0d440800000000000000
-      internalID: 4958683781729118722
+      spriteID: 3a9f26f55df9d1220800000000000000
+      internalID: 2458296710391331235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_19
+      name: Pink1 Slime Spritesheet_19
       rect:
         serializedVersion: 2
         x: 2358
@@ -638,14 +638,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9efde6885fbf8190800000000000000
-      internalID: -7957931629598605667
+      spriteID: f59add5d9c619f0e0800000000000000
+      internalID: -2235730683880429217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_20
+      name: Pink1 Slime Spritesheet_20
       rect:
         serializedVersion: 2
         x: 2834
@@ -659,14 +659,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82aedf6170ae7d310800000000000000
-      internalID: 1429868722884831784
+      spriteID: 3ab68fa18ec169d20800000000000000
+      internalID: 3284844761423834019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_21
+      name: Pink1 Slime Spritesheet_21
       rect:
         serializedVersion: 2
         x: 7
@@ -680,14 +680,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4a2e0f36ec2a8840800000000000000
-      internalID: 5227039684928875087
+      spriteID: a3bca83c0cf3ae010800000000000000
+      internalID: 1218856746304064314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_22
+      name: Pink1 Slime Spritesheet_22
       rect:
         serializedVersion: 2
         x: 424
@@ -701,14 +701,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 652bdbf3e40812080800000000000000
-      internalID: -9213942289058123178
+      spriteID: 9220cfa74c848ea40800000000000000
+      internalID: 5397644162117665321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_23
+      name: Pink1 Slime Spritesheet_23
       rect:
         serializedVersion: 2
         x: 890
@@ -722,14 +722,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc03a55668d6dc780800000000000000
-      internalID: -8661146084370140980
+      spriteID: 1f5caecb52da23a60800000000000000
+      internalID: 7652369094450791921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_24
+      name: Pink1 Slime Spritesheet_24
       rect:
         serializedVersion: 2
         x: 1387
@@ -743,14 +743,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 570456863788db990800000000000000
-      internalID: -7368583386054180747
+      spriteID: 477bf6ee6c65c5f70800000000000000
+      internalID: 9177305553078040436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_25
+      name: Pink1 Slime Spritesheet_25
       rect:
         serializedVersion: 2
         x: 1872
@@ -764,14 +764,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b031aa4b844195200800000000000000
-      internalID: 169188763504349963
+      spriteID: 0bd960a83d7bc6b10800000000000000
+      internalID: 1976156455690476976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_26
+      name: Pink1 Slime Spritesheet_26
       rect:
         serializedVersion: 2
         x: 2342
@@ -785,14 +785,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85b545f464fab5270800000000000000
-      internalID: 8240372659717954392
+      spriteID: b4f6fa4003ffa4a30800000000000000
+      internalID: 4200450184178528075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_27
+      name: Pink1 Slime Spritesheet_27
       rect:
         serializedVersion: 2
         x: 2831
@@ -806,14 +806,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39ed7c9eb6b3cebf0800000000000000
-      internalID: -293794541016195437
+      spriteID: 4f8a5efac55df0590800000000000000
+      internalID: -7705705843342857996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_28
+      name: Pink1 Slime Spritesheet_28
       rect:
         serializedVersion: 2
         x: 2
@@ -827,14 +827,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8fbbd02fcbcfcbc0800000000000000
-      internalID: -3760563073361133681
+      spriteID: de61862948ed57b80800000000000000
+      internalID: -8397561269189077267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_29
+      name: Pink1 Slime Spritesheet_29
       rect:
         serializedVersion: 2
         x: 415
@@ -848,14 +848,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08f2f2ff6af050920800000000000000
-      internalID: 2955785940358868864
+      spriteID: f20c3e3c56ee1f2a0800000000000000
+      internalID: -6705316249332367313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_30
+      name: Pink1 Slime Spritesheet_30
       rect:
         serializedVersion: 2
         x: 903
@@ -869,14 +869,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba6bcf2e738760160800000000000000
-      internalID: 6991407652966020779
+      spriteID: 47c50847915a52180800000000000000
+      internalID: -9140718339931218828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_31
+      name: Pink1 Slime Spritesheet_31
       rect:
         serializedVersion: 2
         x: 1388
@@ -890,14 +890,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d50d14cf92ffa6d50800000000000000
-      internalID: 6731473148849541213
+      spriteID: ba27788cc5c5be1d0800000000000000
+      internalID: -3320458746684542293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_32
+      name: Pink1 Slime Spritesheet_32
       rect:
         serializedVersion: 2
         x: 1909
@@ -911,14 +911,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e55043b212dcbc6e0800000000000000
-      internalID: -1816132482371418786
+      spriteID: 6669d2a48eb964310800000000000000
+      internalID: 1388968957069596262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_33
+      name: Pink1 Slime Spritesheet_33
       rect:
         serializedVersion: 2
         x: 2367
@@ -932,14 +932,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d02f697b43cee800800000000000000
-      internalID: 643666525687849172
+      spriteID: 2256839b91ba0ca50800000000000000
+      internalID: 6539414785911973154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_34
+      name: Pink1 Slime Spritesheet_34
       rect:
         serializedVersion: 2
         x: 2834
@@ -953,14 +953,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61ef10aa9deb6ec40800000000000000
-      internalID: 5541326233595411990
+      spriteID: 2f83a36d5260662b0800000000000000
+      internalID: -5591775127756195598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_35
+      name: Pink1 Slime Spritesheet_35
       rect:
         serializedVersion: 2
         x: 9
@@ -974,14 +974,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc9aca4218615b270800000000000000
-      internalID: 8265537435030301131
+      spriteID: e4bbcf46be38e9260800000000000000
+      internalID: 7106262309072059214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_36
+      name: Pink1 Slime Spritesheet_36
       rect:
         serializedVersion: 2
         x: 455
@@ -995,14 +995,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47442e00f31198b80800000000000000
-      internalID: -8392157468332768140
+      spriteID: ac4feaad4512f1250800000000000000
+      internalID: 5917485083717989578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_37
+      name: Pink1 Slime Spritesheet_37
       rect:
         serializedVersion: 2
         x: 937
@@ -1016,14 +1016,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 408500a8000059ad0800000000000000
-      internalID: -2696248799596095484
+      spriteID: 0dfae7acc2265edf0800000000000000
+      internalID: -151607067931660336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_38
+      name: Pink1 Slime Spritesheet_38
       rect:
         serializedVersion: 2
         x: 1451
@@ -1037,14 +1037,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57a762cb2a4e766f0800000000000000
-      internalID: -691332630185608587
+      spriteID: 85246c0f8f1e792e0800000000000000
+      internalID: -2118976640346865064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_39
+      name: Pink1 Slime Spritesheet_39
       rect:
         serializedVersion: 2
         x: 1954
@@ -1058,14 +1058,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65de2203ed42ea410800000000000000
-      internalID: 1490169063415147862
+      spriteID: 56fd9e28ed460fed0800000000000000
+      internalID: -2382293296037109915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_40
+      name: Pink1 Slime Spritesheet_40
       rect:
         serializedVersion: 2
         x: 2434
@@ -1079,14 +1079,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12419ada63825aee0800000000000000
-      internalID: -1250549106218560479
+      spriteID: d35d1660e96b9bcc0800000000000000
+      internalID: -3694721229452618435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blue1 Slime Spritesheet_41
+      name: Pink1 Slime Spritesheet_41
       rect:
         serializedVersion: 2
         x: 2907
@@ -1100,8 +1100,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 405539b7ff05a85b0800000000000000
-      internalID: -5365386947838388988
+      spriteID: af309346ef5b21be0800000000000000
+      internalID: -1507942821007916038
       vertices: []
       indices: 
       edges: []

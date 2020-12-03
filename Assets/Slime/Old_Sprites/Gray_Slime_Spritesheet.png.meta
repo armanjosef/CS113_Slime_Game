@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: 6e2f86fb3d106b44389a3764cf54f742
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3681242552176469248
+    second: Gray_Slime_Spritesheet_0
+  - first:
+      213: -2115523197582650989
+    second: Gray_Slime_Spritesheet_1
+  - first:
+      213: -1267340338879411346
+    second: Gray_Slime_Spritesheet_2
+  - first:
+      213: -7562118173860037393
+    second: Gray_Slime_Spritesheet_3
+  - first:
+      213: 303512612108994750
+    second: Gray_Slime_Spritesheet_4
+  - first:
+      213: -2975266124990092813
+    second: Gray_Slime_Spritesheet_5
+  - first:
+      213: -9166933993148001353
+    second: Gray_Slime_Spritesheet_6
+  - first:
+      213: 7592310696155574402
+    second: Gray_Slime_Spritesheet_7
+  - first:
+      213: 695725534787435040
+    second: Gray_Slime_Spritesheet_8
+  - first:
+      213: 5663550743728153859
+    second: Gray_Slime_Spritesheet_9
+  - first:
+      213: -2614821409959955873
+    second: Gray_Slime_Spritesheet_10
+  - first:
+      213: 8138617117831581751
+    second: Gray_Slime_Spritesheet_11
+  - first:
+      213: -1856573496458416834
+    second: Gray_Slime_Spritesheet_12
+  - first:
+      213: 273130504280286233
+    second: Gray_Slime_Spritesheet_13
+  - first:
+      213: 5462065261339307154
+    second: Gray_Slime_Spritesheet_14
+  - first:
+      213: 7510921228364429354
+    second: Gray_Slime_Spritesheet_15
+  - first:
+      213: -702561750643720975
+    second: Gray_Slime_Spritesheet_16
+  - first:
+      213: 2355664045002673565
+    second: Gray_Slime_Spritesheet_17
+  - first:
+      213: 740841140536908167
+    second: Gray_Slime_Spritesheet_18
+  - first:
+      213: -5971206298485354517
+    second: Gray_Slime_Spritesheet_19
+  - first:
+      213: -8920185900212986029
+    second: Gray_Slime_Spritesheet_20
+  - first:
+      213: -4884715933889080372
+    second: Gray_Slime_Spritesheet_21
+  - first:
+      213: -2433051744880238016
+    second: Gray_Slime_Spritesheet_22
+  - first:
+      213: -3370706449594059500
+    second: Gray_Slime_Spritesheet_23
+  - first:
+      213: -3495605954055391203
+    second: Gray_Slime_Spritesheet_24
+  - first:
+      213: -667639628483172529
+    second: Gray_Slime_Spritesheet_25
+  - first:
+      213: -3260734214735636039
+    second: Gray_Slime_Spritesheet_26
+  - first:
+      213: 464802874554531435
+    second: Gray_Slime_Spritesheet_27
+  - first:
+      213: -523777145673619917
+    second: Gray_Slime_Spritesheet_28
+  - first:
+      213: 7849580374424064324
+    second: Gray_Slime_Spritesheet_29
+  - first:
+      213: -2238591135853353208
+    second: Gray_Slime_Spritesheet_30
+  - first:
+      213: 7956122572138302430
+    second: Gray_Slime_Spritesheet_31
+  - first:
+      213: 3606683211985927521
+    second: Gray_Slime_Spritesheet_32
+  - first:
+      213: -7930969885765395891
+    second: Gray_Slime_Spritesheet_33
+  - first:
+      213: 1156944990001119016
+    second: Gray_Slime_Spritesheet_34
+  - first:
+      213: -8965447390941237798
+    second: Gray_Slime_Spritesheet_35
+  - first:
+      213: -6563437211228980153
+    second: Gray_Slime_Spritesheet_36
+  - first:
+      213: -6358412220114901504
+    second: Gray_Slime_Spritesheet_37
+  - first:
+      213: -1707898690099322543
+    second: Gray_Slime_Spritesheet_38
+  - first:
+      213: -5790084411079147846
+    second: Gray_Slime_Spritesheet_39
+  - first:
+      213: -4484308000613801526
+    second: Gray_Slime_Spritesheet_40
+  - first:
+      213: 7562272232661394256
+    second: Gray_Slime_Spritesheet_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 230
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1693
+        width: 368
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e78ed896661330800000000000000
+      internalID: 3681242552176469248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1688
+        width: 332
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391dcfd3cd624a2e0800000000000000
+      internalID: -2115523197582650989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1682
+        width: 262
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bc19b2da0896ee0800000000000000
+      internalID: -1267340338879411346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1655
+        width: 210
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecfb813695fd0790800000000000000
+      internalID: -7562118173860037393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1677
+        width: 262
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb88b95dc1b463400800000000000000
+      internalID: 303512612108994750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 1666
+        width: 333
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f966b3193bb5b6d0800000000000000
+      internalID: -2975266124990092813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1685
+        width: 369
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3d5fa0a1288c080800000000000000
+      internalID: -9166933993148001353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1382
+        width: 371
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28070c43a5e4d5960800000000000000
+      internalID: 7592310696155574402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1381
+        width: 391
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a7c2210b6b7a900800000000000000
+      internalID: 695725534787435040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1386
+        width: 411
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305e0570569f89e40800000000000000
+      internalID: 5663550743728153859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1386
+        width: 412
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52304418c946bbd0800000000000000
+      internalID: -2614821409959955873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1382
+        width: 412
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730d34ff52d22f070800000000000000
+      internalID: 8138617117831581751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1343
+        width: 391
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3de034dd302c36e0800000000000000
+      internalID: -1856573496458416834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1338
+        width: 371
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91423fc1fba5ac300800000000000000
+      internalID: 273130504280286233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1043
+        width: 370
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c612a7a672dcb40800000000000000
+      internalID: 5462065261339307154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1046
+        width: 393
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283a9800172c3860800000000000000
+      internalID: 7510921228364429354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1047
+        width: 411
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcba146fcfff36f0800000000000000
+      internalID: -702561750643720975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1073
+        width: 412
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d4b84d7fff0b020800000000000000
+      internalID: 2355664045002673565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1070
+        width: 412
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78992b8971ff74a00800000000000000
+      internalID: 740841140536908167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1059
+        width: 391
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef84322283022da0800000000000000
+      internalID: -5971206298485354517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1028
+        width: 369
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f5b575f22253480800000000000000
+      internalID: -8920185900212986029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 685
+        width: 369
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d9db0db0063cb0800000000000000
+      internalID: -4884715933889080372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 679
+        width: 414
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042e44234501c3ed0800000000000000
+      internalID: -2433051744880238016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 688
+        width: 434
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f3d5c758d831d0800000000000000
+      internalID: -3370706449594059500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 696
+        width: 438
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b9c1c7ec1d7fc0800000000000000
+      internalID: -3495605954055391203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 707
+        width: 435
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4769429b411cb6f0800000000000000
+      internalID: -667639628483172529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 706
+        width: 412
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b958bff18b8fb2d0800000000000000
+      internalID: -3260734214735636039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 704
+        width: 369
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e376470cf437600800000000000000
+      internalID: 464802874554531435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 368
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336e7aa067b2bb8f0800000000000000
+      internalID: -523777145673619917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 349
+        width: 414
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4419c6df2cf4fec60800000000000000
+      internalID: 7849580374424064324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 349
+        width: 435
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8076f16f83deee0e0800000000000000
+      internalID: -2238591135853353208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 354
+        width: 439
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb45c57353d96e60800000000000000
+      internalID: 7956122572138302430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 353
+        width: 435
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d39c3b5438d0230800000000000000
+      internalID: 3606683211985927521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 349
+        width: 415
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a12a2b8e88fe190800000000000000
+      internalID: -7930969885765395891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 354
+        width: 369
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f3fa1b65b4e0010800000000000000
+      internalID: 1156944990001119016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 369
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addae725915549380800000000000000
+      internalID: -8965447390941237798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 7
+        width: 367
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cbd1781acf9e4a0800000000000000
+      internalID: -6563437211228980153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 7
+        width: 368
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0066c8c26c162c7a0800000000000000
+      internalID: -6358412220114901504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 9
+        width: 357
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1516640b0335c48e0800000000000000
+      internalID: -1707898690099322543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 5
+        width: 342
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb912c7ec75afa0800000000000000
+      internalID: -5790084411079147846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 7
+        width: 342
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1e8ffd1a984c1c0800000000000000
+      internalID: -4484308000613801526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray_Slime_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 7
+        width: 320
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053259a678692f860800000000000000
+      internalID: 7562272232661394256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

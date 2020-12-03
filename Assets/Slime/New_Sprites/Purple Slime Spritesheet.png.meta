@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: de73bc27553dc4adfada7adac7f592be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4914929605043261717
+    second: Purple Slime Spritesheet_0
+  - first:
+      213: 2583676223235211640
+    second: Purple Slime Spritesheet_1
+  - first:
+      213: -1943456476133123831
+    second: Purple Slime Spritesheet_2
+  - first:
+      213: 3563116702705290102
+    second: Purple Slime Spritesheet_3
+  - first:
+      213: -4181954905000420971
+    second: Purple Slime Spritesheet_4
+  - first:
+      213: -3360298029097015869
+    second: Purple Slime Spritesheet_5
+  - first:
+      213: -378534291886382936
+    second: Purple Slime Spritesheet_6
+  - first:
+      213: -1068542041844262810
+    second: Purple Slime Spritesheet_7
+  - first:
+      213: 798649957743064235
+    second: Purple Slime Spritesheet_8
+  - first:
+      213: 2842198591431175653
+    second: Purple Slime Spritesheet_9
+  - first:
+      213: -7486230751108076055
+    second: Purple Slime Spritesheet_10
+  - first:
+      213: -2795378498889239691
+    second: Purple Slime Spritesheet_11
+  - first:
+      213: -5862899955191505476
+    second: Purple Slime Spritesheet_12
+  - first:
+      213: 7881998642516875588
+    second: Purple Slime Spritesheet_13
+  - first:
+      213: 6866701850002525815
+    second: Purple Slime Spritesheet_14
+  - first:
+      213: -3090135825947903531
+    second: Purple Slime Spritesheet_15
+  - first:
+      213: -2446833946246742018
+    second: Purple Slime Spritesheet_16
+  - first:
+      213: 4806508545000167597
+    second: Purple Slime Spritesheet_17
+  - first:
+      213: -362023763783728731
+    second: Purple Slime Spritesheet_18
+  - first:
+      213: 6273494028506257998
+    second: Purple Slime Spritesheet_19
+  - first:
+      213: 386763544908015710
+    second: Purple Slime Spritesheet_20
+  - first:
+      213: 9128152548897220261
+    second: Purple Slime Spritesheet_21
+  - first:
+      213: 7385636044348547601
+    second: Purple Slime Spritesheet_22
+  - first:
+      213: -6558340011064059954
+    second: Purple Slime Spritesheet_23
+  - first:
+      213: 1491602843912390574
+    second: Purple Slime Spritesheet_24
+  - first:
+      213: -8674072573196603516
+    second: Purple Slime Spritesheet_25
+  - first:
+      213: -1148272966030892081
+    second: Purple Slime Spritesheet_26
+  - first:
+      213: -1092563933830291975
+    second: Purple Slime Spritesheet_27
+  - first:
+      213: 6516098686659234788
+    second: Purple Slime Spritesheet_28
+  - first:
+      213: -8413641349635733211
+    second: Purple Slime Spritesheet_29
+  - first:
+      213: -2164011349906659716
+    second: Purple Slime Spritesheet_30
+  - first:
+      213: -4808928641781195434
+    second: Purple Slime Spritesheet_31
+  - first:
+      213: -5721761438154576341
+    second: Purple Slime Spritesheet_32
+  - first:
+      213: 6934159479151417445
+    second: Purple Slime Spritesheet_33
+  - first:
+      213: -1108039317473340234
+    second: Purple Slime Spritesheet_34
+  - first:
+      213: -1147573178248265723
+    second: Purple Slime Spritesheet_35
+  - first:
+      213: -6202010455624221062
+    second: Purple Slime Spritesheet_36
+  - first:
+      213: -7206227984685097561
+    second: Purple Slime Spritesheet_37
+  - first:
+      213: 3804100201263344879
+    second: Purple Slime Spritesheet_38
+  - first:
+      213: -4933059240633966984
+    second: Purple Slime Spritesheet_39
+  - first:
+      213: 6264812779846400884
+    second: Purple Slime Spritesheet_40
+  - first:
+      213: -765540862436802810
+    second: Purple Slime Spritesheet_41
+  - first:
+      213: 7880086502309785389
+    second: Purple Slime Spritesheet_42
+  - first:
+      213: -6930739455114324672
+    second: Purple Slime Spritesheet_43
+  - first:
+      213: -5065096828711763266
+    second: Purple Slime Spritesheet_44
+  - first:
+      213: -268522105312697894
+    second: Purple Slime Spritesheet_45
+  - first:
+      213: 3942396844960942353
+    second: Purple Slime Spritesheet_46
+  - first:
+      213: -5548647251480651945
+    second: Purple Slime Spritesheet_47
+  - first:
+      213: -5461330663393486433
+    second: Purple Slime Spritesheet_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 245
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2190
+        width: 394
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee685b8099aacbb0800000000000000
+      internalID: -4914929605043261717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2164
+        width: 348
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871ce8c06df0bd320800000000000000
+      internalID: 2583676223235211640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2179
+        width: 281
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90917afb1a47705e0800000000000000
+      internalID: -1943456476133123831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2157
+        width: 223
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b820e43cbb27130800000000000000
+      internalID: 3563116702705290102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2186
+        width: 281
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5995fbcbb26b6f5c0800000000000000
+      internalID: -4181954905000420971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2184
+        width: 349
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c52a340fb2dd51d0800000000000000
+      internalID: -3360298029097015869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 2189
+        width: 394
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0eecc211d2fbaf0800000000000000
+      internalID: -378534291886382936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1803
+        width: 394
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6685d40aca6cb21f0800000000000000
+      internalID: -1068542041844262810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1798
+        width: 355
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4f727b7ef551b00800000000000000
+      internalID: 798649957743064235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1792
+        width: 280
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edee5f6f84817720800000000000000
+      internalID: 2842198591431175653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1763
+        width: 223
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede89dabc09b1890800000000000000
+      internalID: -7486230751108076055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1787
+        width: 278
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57331f8d012d439d0800000000000000
+      internalID: -2795378498889239691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 1775
+        width: 354
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1821cd8bc2aea0800000000000000
+      internalID: -5862899955191505476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1794
+        width: 395
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4495457310c726d60800000000000000
+      internalID: 7881998642516875588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1471
+        width: 396
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e0be383fc6b4f50800000000000000
+      internalID: 6866701850002525815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1469
+        width: 418
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9baaaa6d1ad15d0800000000000000
+      internalID: -3090135825947903531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1476
+        width: 440
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff78916d791b0ed0800000000000000
+      internalID: -2446833946246742018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1476
+        width: 439
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da85d924e0624b240800000000000000
+      internalID: 4806508545000167597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1471
+        width: 440
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1cb6f0e45d9faf0800000000000000
+      internalID: -362023763783728731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1431
+        width: 418
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a56ad949def0750800000000000000
+      internalID: 6273494028506257998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 1426
+        width: 394
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58205a156f0e5500800000000000000
+      internalID: 386763544908015710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1110
+        width: 394
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a668945166bdae70800000000000000
+      internalID: 9128152548897220261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1114
+        width: 418
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11267bff9dc0f7660800000000000000
+      internalID: 7385636044348547601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1114
+        width: 440
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec79b4ce1881cf4a0800000000000000
+      internalID: -6558340011064059954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1142
+        width: 440
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea74c5932ec33b410800000000000000
+      internalID: 1491602843912390574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1137
+        width: 439
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f68aea3f08f9780800000000000000
+      internalID: -8674072573196603516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1127
+        width: 419
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc36b8a32d38010f0800000000000000
+      internalID: -1148272966030892081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1093
+        width: 395
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd54ad04ee66d0f0800000000000000
+      internalID: -1092563933830291975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 728
+        width: 395
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb86b35b35dd6a50800000000000000
+      internalID: 6516098686659234788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 722
+        width: 442
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5298c6715cdbc3b80800000000000000
+      internalID: -8413641349635733211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 731
+        width: 467
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7666e68423e7f1e0800000000000000
+      internalID: -2164011349906659716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 739
+        width: 469
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d1e6c01e0434db0800000000000000
+      internalID: -4808928641781195434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 753
+        width: 465
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ea44589483890b0800000000000000
+      internalID: -5721761438154576341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 749
+        width: 441
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5685ababe451b3060800000000000000
+      internalID: 6934159479151417445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 748
+        width: 394
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d5d48c147f90f0800000000000000
+      internalID: -1108039317473340234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 392
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5000fb446400310f0800000000000000
+      internalID: -1147573178248265723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 370
+        width: 441
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e724ba9580ee9a0800000000000000
+      internalID: -6202010455624221062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 368
+        width: 465
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad9d5204d55efb90800000000000000
+      internalID: -7206227984685097561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 373
+        width: 469
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec2b426af0eac430800000000000000
+      internalID: 3804100201263344879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 373
+        width: 466
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87edd02d1c04a8bb0800000000000000
+      internalID: -4933059240633966984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 368
+        width: 442
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b7217e70611f650800000000000000
+      internalID: 6264812779846400884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 373
+        width: 419
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f786144a04065f0800000000000000
+      internalID: -765540862436802810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f66816ce0bb5d60800000000000000
+      internalID: 7880086502309785389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4
+        width: 393
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045502baf2111df90800000000000000
+      internalID: -6930739455114324672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4
+        width: 393
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb28da3354925b9b0800000000000000
+      internalID: -5065096828711763266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 0
+        width: 381
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad12f726194064cf0800000000000000
+      internalID: -268522105312697894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 3
+        width: 366
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1198483fa0536b630800000000000000
+      internalID: 3942396844960942353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 4
+        width: 366
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7575c8709be3ff2b0800000000000000
+      internalID: -5548647251480651945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Slime Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4
+        width: 342
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f999b7f62b47534b0800000000000000
+      internalID: -5461330663393486433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
