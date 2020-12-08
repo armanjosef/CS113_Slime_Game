@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8760159376031606204}
   - component: {fileID: 8760159376031606205}
   - component: {fileID: 8760159376031606178}
+  - component: {fileID: 1395598292727448305}
   m_Layer: 0
   m_Name: Yellow Slime Spritesheet_14
   m_TagString: Enemy
@@ -141,3 +142,32 @@ CapsuleCollider2D:
   m_Offset: {x: -0.0000004760052, y: 0.0069794664}
   m_Size: {x: 1.6327548, y: 1.221911}
   m_Direction: 1
+--- !u!114 &1395598292727448305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8760159376031606201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc4fd71a97414c24a1fec25d70ade37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerSlime: {fileID: 0}
+  enemySlimes:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  x_range: 0
+  y_range: 0
+  enemyCount: 0
+  maxEnemyCount: 10
+  wait_time: 0.1
+  scale_effect: 1
+  towardsSpeed: 3.5
+  awaySpeed: 2
+  lineOfSite: 5

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4498675585019266392}
   - component: {fileID: 4498675585019266375}
   - component: {fileID: 4498675585019266374}
+  - component: {fileID: 5268072387681438755}
   m_Layer: 0
   m_Name: Orange Slime Spritesheet_14
   m_TagString: Enemy
@@ -141,3 +142,32 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0067996993, y: 0.006798744}
   m_Size: {x: 1.5748146, y: 1.1979653}
   m_Direction: 1
+--- !u!114 &5268072387681438755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4498675585019266395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc4fd71a97414c24a1fec25d70ade37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerSlime: {fileID: 0}
+  enemySlimes:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  x_range: 0
+  y_range: 0
+  enemyCount: 0
+  maxEnemyCount: 10
+  wait_time: 0.1
+  scale_effect: 1
+  towardsSpeed: 3
+  awaySpeed: 3
+  lineOfSite: 3

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8975972212373158535}
   - component: {fileID: 8975972212373158534}
   - component: {fileID: 8975972212373158585}
+  - component: {fileID: 2740879472191060714}
   m_Layer: 0
   m_Name: Red Slime Spritesheet_14
   m_TagString: Enemy
@@ -141,3 +142,32 @@ CapsuleCollider2D:
   m_Offset: {x: -0.007002593, y: -0.00000071442105}
   m_Size: {x: 1.6134484, y: 1.2315955}
   m_Direction: 1
+--- !u!114 &2740879472191060714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8975972212373158530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc4fd71a97414c24a1fec25d70ade37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerSlime: {fileID: 0}
+  enemySlimes:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  x_range: 0
+  y_range: 0
+  enemyCount: 0
+  maxEnemyCount: 10
+  wait_time: 0.1
+  scale_effect: 1
+  towardsSpeed: 4.75
+  awaySpeed: 5
+  lineOfSite: 3

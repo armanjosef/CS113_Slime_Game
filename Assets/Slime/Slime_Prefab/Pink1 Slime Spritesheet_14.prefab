@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 317476594172119188}
   - component: {fileID: 317476594172119179}
   - component: {fileID: 317476594172119178}
+  - component: {fileID: 8939203447945656437}
   m_Layer: 0
   m_Name: Pink1 Slime Spritesheet_14
   m_TagString: Enemy
@@ -141,3 +142,32 @@ CapsuleCollider2D:
   m_Offset: {x: -0.0065397047, y: -0.013081194}
   m_Size: {x: 1.5801804, y: 1.2572979}
   m_Direction: 1
+--- !u!114 &8939203447945656437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 317476594172119191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc4fd71a97414c24a1fec25d70ade37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerSlime: {fileID: 0}
+  enemySlimes:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  x_range: 0
+  y_range: 0
+  enemyCount: 0
+  maxEnemyCount: 10
+  wait_time: 0.1
+  scale_effect: 1
+  towardsSpeed: 4
+  awaySpeed: 2
+  lineOfSite: 4
