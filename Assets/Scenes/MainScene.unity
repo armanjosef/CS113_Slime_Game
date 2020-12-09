@@ -10349,6 +10349,7 @@ MonoBehaviour:
   player: {fileID: 970304777}
   spawner: {fileID: 889036277}
   scaleChange: {x: 0.05, y: 0.05, z: 0.1}
+  animator: {fileID: 970304782}
 --- !u!1 &1223888025
 GameObject:
   m_ObjectHideFlags: 0

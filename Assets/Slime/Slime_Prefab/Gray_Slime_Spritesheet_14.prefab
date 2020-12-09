@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7789439286095069519}
   - component: {fileID: 7789439286095069518}
   - component: {fileID: 7789439286095069553}
-  - component: {fileID: 6527637695637089725}
+  - component: {fileID: -1042611981097134512}
   m_Layer: 0
   m_Name: Gray_Slime_Spritesheet_14
   m_TagString: Enemy
@@ -142,7 +142,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.006987098, y: -0.020963551}
   m_Size: {x: 1.5610626, y: 1.1924813}
   m_Direction: 1
---- !u!114 &6527637695637089725
+--- !u!114 &-1042611981097134512
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -151,23 +151,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 7789439286095069514}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8bc4fd71a97414c24a1fec25d70ade37, type: 3}
+  m_Script: {fileID: 11500000, guid: 769c0ca5278224200874342999f6aacd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSlime: {fileID: 0}
-  enemySlimes:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  x_range: 0
-  y_range: 0
-  enemyCount: 0
-  maxEnemyCount: 10
-  wait_time: 0.1
-  scale_effect: 1
   towardsSpeed: 1.5
   awaySpeed: 1
   lineOfSite: 6
+  animator: {fileID: 7789439286095069518}

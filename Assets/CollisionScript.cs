@@ -9,6 +9,8 @@ public class CollisionScript : MonoBehaviour
     public GameObject player;
     public EnemySpawner spawner;
     public Vector3 scaleChange;
+
+    public Animator animator;
     //public Animation eating;
 
     void OnCollisionEnter2D(Collision2D collision) {
@@ -20,7 +22,12 @@ public class CollisionScript : MonoBehaviour
             Destroy(collision.gameObject);
             spawner.enemyCount -= 1;
             player.transform.localScale += scaleChange;
-            //eating.Play();
+
+            float x = animator.GetFloat("Horizontal");
+            if (x < 0)
+                animator.Play("Base Layer.Player_Eat_Left");
+            else if (x > 0)
+                animator.Play("Base Layer.Player_Eat_Right");
         } else {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }

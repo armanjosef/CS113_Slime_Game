@@ -13,10 +13,6 @@ public class EnemySpawner : MonoBehaviour
     public int maxEnemyCount = 10;
     public float wait_time = 0.1f;
     public int scale_effect = 1;
-    public float towardsSpeed;
-    public float awaySpeed;
-    public float lineOfSite;
-    private Transform player;
 
     private int xPos, yPos;
     private int x_limit = 10, y_limit = 8;
@@ -25,23 +21,10 @@ public class EnemySpawner : MonoBehaviour
     // Start is called before the first frame update
     void Start() {
         InvokeRepeating("EnemyDrop", 0, wait_time);
-        player = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
     // Update is called once per frame
-    void Update() {
-        float distanceFromPlayer = Vector2.Distance(player.position, transform.position);
-
-        if (distanceFromPlayer < lineOfSite) {
-            if (transform.localScale.x > player.transform.localScale.x && transform.localScale.y > player.transform.localScale.y) {
-                transform.position = Vector2.MoveTowards(transform.position, player.position, towardsSpeed * Time.deltaTime);
-            }
-            else {
-                Vector2 runAwayPosition = transform.position - player.position;
-                transform.position = Vector2.MoveTowards(transform.position, player.position, -1 * awaySpeed * Time.deltaTime); ;
-            }
-        }
-    }
+    void Update() {}
 
     bool IsWithinPlayerRange(int ex, int ey) { //, float px, float py) {
         Rigidbody2D playerRB = playerSlime.GetComponent(typeof(Rigidbody2D)) as Rigidbody2D;
