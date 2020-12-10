@@ -34,6 +34,11 @@ public class Timer : MonoBehaviour
                 isRunning = false;
             }
         }
+        else
+        {
+            movement.moveSpeed = 0f;
+            player.GetComponent<Animator>().enabled = false;
+        }
     }
 
     void DisplayTime(float time)

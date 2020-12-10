@@ -12,6 +12,12 @@ public class CollisionScript : MonoBehaviour
     public float seconds_before_reset;
     public Score score;
     public int scores = 0;
+    private Player_Movement movement;
+
+    void Start()
+    {
+        movement = GetComponent<Player_Movement>();
+    }
 
     public Animator animator;
     //public Animation eating;
@@ -39,6 +45,7 @@ public class CollisionScript : MonoBehaviour
     }
 
     IEnumerator Coroutine() {
+        movement.moveSpeed = 0f;
         animator.Play("Base Layer.Player_Death");
         spawner.enemyCount = 30;
         yield return new WaitForSeconds(seconds_before_reset);
@@ -49,5 +56,6 @@ public class CollisionScript : MonoBehaviour
         player.transform.position = new Vector3(0f, 0f, -1);
         spawner.enemyCount = 0;
         score.scoreText.text = "0";
+        movement.moveSpeed = 5f;
     }
 }
