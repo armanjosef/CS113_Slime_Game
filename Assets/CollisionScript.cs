@@ -9,6 +9,7 @@ public class CollisionScript : MonoBehaviour
     public GameObject player;
     public EnemySpawner spawner;
     public Vector3 scaleChange;
+    public float seconds_before_reset;
 
     public Animator animator;
     //public Animation eating;
@@ -29,7 +30,13 @@ public class CollisionScript : MonoBehaviour
             else if (x > 0)
                 animator.Play("Base Layer.Player_Eat_Right");
         } else {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            StartCoroutine(Coroutine());
         }
+    }
+
+    IEnumerator Coroutine() {
+        animator.Play("Base Layer.Player_Death");
+        yield return new WaitForSeconds(seconds_before_reset);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
