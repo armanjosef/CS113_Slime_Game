@@ -7,14 +7,13 @@ public class Timer : MonoBehaviour
 {
     public GameObject player;
     public Text timeText;
-    private float timeAlloted;
+    public float timeAlloted;
     private Player_Movement movement;
     private bool isRunning = true;
 
     // Start is called before the first frame update
     void Start()
     {
-        timeAlloted = 30;
         movement = GetComponent<Player_Movement>();
     }
 
@@ -40,7 +39,7 @@ public class Timer : MonoBehaviour
     void DisplayTime(float time)
     {
         time += 1;
-        float seconds = Mathf.FloorToInt(time % 60);
-        timeText.text = string.Format("{0:00}", seconds);
+        time = Mathf.FloorToInt(time);
+        timeText.text = time.ToString();
     }
 }

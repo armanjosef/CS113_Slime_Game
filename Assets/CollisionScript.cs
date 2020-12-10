@@ -10,6 +10,8 @@ public class CollisionScript : MonoBehaviour
     public EnemySpawner spawner;
     public Vector3 scaleChange;
     public float seconds_before_reset;
+    public Score score;
+    public int scores = 0;
 
     public Animator animator;
     //public Animation eating;
@@ -23,7 +25,8 @@ public class CollisionScript : MonoBehaviour
             Destroy(collision.gameObject);
             spawner.enemyCount -= 1;
             player.transform.localScale += scaleChange;
-
+            scores += 1;
+            score.scoreText.text = scores.ToString();
             float x = animator.GetFloat("Horizontal");
             if (x < 0)
                 animator.Play("Base Layer.Player_Eat_Left");
@@ -31,6 +34,7 @@ public class CollisionScript : MonoBehaviour
                 animator.Play("Base Layer.Player_Eat_Right");
         } else {
             StartCoroutine(Coroutine());
+            scores = 0;
         }
     }
 
@@ -44,5 +48,6 @@ public class CollisionScript : MonoBehaviour
         player.transform.localScale = new Vector3(0.5f, 0.5f, 1);
         player.transform.position = new Vector3(0f, 0f, -1);
         spawner.enemyCount = 0;
+        score.scoreText.text = "0";
     }
 }
