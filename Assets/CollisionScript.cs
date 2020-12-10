@@ -36,7 +36,13 @@ public class CollisionScript : MonoBehaviour
 
     IEnumerator Coroutine() {
         animator.Play("Base Layer.Player_Death");
+        spawner.enemyCount = 30;
         yield return new WaitForSeconds(seconds_before_reset);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        GameObject[] enemies = GameObject.FindGameObjectsWithTag("Enemy");
+        foreach(GameObject enemy in enemies)
+            Destroy(enemy);
+        player.transform.localScale = new Vector3(0.5f, 0.5f, 1);
+        player.transform.position = new Vector3(0f, 0f, -1);
+        spawner.enemyCount = 0;
     }
 }

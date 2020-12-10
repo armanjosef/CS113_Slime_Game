@@ -10433,6 +10433,7 @@ MonoBehaviour:
   player: {fileID: 970304777}
   spawner: {fileID: 889036277}
   scaleChange: {x: 0.05, y: 0.05, z: 0.1}
+  seconds_before_reset: 0.5
   animator: {fileID: 970304782}
 --- !u!114 &970304785
 MonoBehaviour:
