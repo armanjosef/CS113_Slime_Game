@@ -10725,7 +10725,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 970304777}
   timeText: {fileID: 936901051}
-  timeAlloted: 60
+  timeAlloted: 5
 --- !u!1 &1223888025
 GameObject:
   m_ObjectHideFlags: 0

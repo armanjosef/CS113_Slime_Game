@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Timer : MonoBehaviour
 {
@@ -38,6 +39,7 @@ public class Timer : MonoBehaviour
         {
             movement.moveSpeed = 0f;
             player.GetComponent<Animator>().enabled = false;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 
