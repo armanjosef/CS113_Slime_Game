@@ -31,7 +31,21 @@ public class CollisionScript : MonoBehaviour
             Destroy(collision.gameObject);
             spawner.enemyCount -= 1;
             player.transform.localScale += scaleChange;
-            scores += 1;
+
+            float ratio = (float) enemy.x / player.transform.localScale.x;
+            //Debug.Log(ratio);
+            
+            
+            if (ratio < 0.75)
+            {
+                scores += 1;
+            }
+            else
+            {
+                scores += 2;
+            }
+            //scores += 1; //(int) Mathf.Floor(ratio); //(enemy.x * 2); //(enemy.z);
+
             score.scoreText.text = scores.ToString();
             float x = animator.GetFloat("Horizontal");
             if (x < 0)

@@ -19,7 +19,7 @@ public class HighScore : MonoBehaviour
         if (collision.scores > highScore)
         {
             highScore = collision.scores;
-            Debug.Log("High score: " + highScore.ToString());
+            //Debug.Log("High score: " + highScore.ToString());
         }
     }
 }
